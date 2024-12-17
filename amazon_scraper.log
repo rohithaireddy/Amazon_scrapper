@@ -1,0 +1,717 @@
+2024-11-20 20:29:21,491 - WARNING - The chromedriver version (130.0.6723.116) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (131.0.6778.85); currently, chromedriver 131.0.6778.85 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+2024-11-20 20:29:22,328 - INFO - Browser started successfully
+2024-11-20 20:29:22,329 - INFO - Navigating to Amazon and searching for: eco paper plates
+2024-11-20 20:29:34,992 - INFO - Sorting by Best Sellers...
+2024-11-20 20:29:35,158 - INFO - Successfully sorted by Best Sellers
+2024-11-20 20:29:38,163 - INFO - Verifying page navigation...
+2024-11-20 20:29:38,163 - INFO - Starting page navigation verification...
+2024-11-20 20:29:38,187 - INFO - Verifying page 1 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&qid=1732152570&ref=sr_st_exact-aware-popularity-rank&ds=v1%3AVZys4EIaMDn1HMzTi6uyXRczVqcq5Ku3ym5LI9JRA7w
+2024-11-20 20:29:39,310 - INFO - Successfully navigated to page 2
+2024-11-20 20:29:41,328 - INFO - Verifying page 2 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=2&qid=1732152575&ref=sr_pg_1
+2024-11-20 20:29:42,417 - INFO - Successfully navigated to page 3
+2024-11-20 20:29:44,435 - INFO - Verifying page 3 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=3&qid=1732152578&ref=sr_pg_2
+2024-11-20 20:29:45,535 - INFO - Successfully navigated to page 4
+2024-11-20 20:29:47,551 - INFO - Verifying page 4 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=4&qid=1732152581&ref=sr_pg_3
+2024-11-20 20:29:48,715 - INFO - Successfully navigated to page 5
+2024-11-20 20:29:50,729 - INFO - Verifying page 5 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=5&qid=1732152584&ref=sr_pg_4
+2024-11-20 20:29:51,822 - INFO - Successfully navigated to page 6
+2024-11-20 20:29:53,839 - INFO - Verifying page 6 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=6&qid=1732152587&ref=sr_pg_5
+2024-11-20 20:29:54,919 - INFO - Successfully navigated to page 7
+2024-11-20 20:29:56,940 - INFO - Verifying page 7 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=7&qid=1732152590&ref=sr_pg_6
+2024-11-20 20:30:02,094 - INFO - No next button found. Reached last page.
+2024-11-20 20:30:02,094 - INFO - Found 7 pages to scrape
+2024-11-20 20:30:02,094 - INFO - Scraping page 1 of 7
+2024-11-20 20:30:06,098 - INFO - Found 52 products on current page
+2024-11-20 20:33:45,903 - INFO - Scraping page 2 of 7
+2024-11-20 20:33:49,629 - INFO - Found 52 products on current page
+2024-11-20 20:37:22,253 - INFO - Scraping page 3 of 7
+2024-11-20 20:37:25,800 - INFO - Found 52 products on current page
+2024-11-20 20:40:51,757 - INFO - Scraping page 4 of 7
+2024-11-20 20:40:55,434 - INFO - Found 52 products on current page
+2024-11-20 20:44:31,385 - INFO - Scraping page 5 of 7
+2024-11-20 20:44:35,080 - INFO - Found 52 products on current page
+2024-11-20 20:47:54,657 - INFO - Scraping page 6 of 7
+2024-11-20 20:47:58,163 - INFO - Found 52 products on current page
+2024-11-20 20:51:04,695 - INFO - Scraping page 7 of 7
+2024-11-20 20:51:08,465 - INFO - Found 22 products on current page
+2024-11-20 20:52:43,223 - WARNING - No data to save!
+2024-11-20 20:58:10,468 - WARNING - The chromedriver version (130.0.6723.116) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (131.0.6778.85); currently, chromedriver 131.0.6778.85 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+2024-11-20 20:58:11,269 - INFO - Browser started successfully
+2024-11-20 20:58:11,272 - INFO - Navigating to Amazon and searching for: eco paper plates
+2024-11-20 20:58:20,713 - INFO - Sorting by Best Sellers...
+2024-11-20 20:58:20,864 - INFO - Successfully sorted by Best Sellers
+2024-11-20 20:58:23,869 - INFO - Verifying page navigation...
+2024-11-20 20:58:23,870 - INFO - Starting page navigation verification...
+2024-11-20 20:58:23,892 - INFO - Verifying page 1 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&qid=1732154297&ref=sr_st_exact-aware-popularity-rank&ds=v1%3AiAnI45CEiFKnJSrRQejDRBaeAjXiMd%2BGUz9J7IrWQQE
+2024-11-20 20:58:25,001 - INFO - Successfully navigated to page 2
+2024-11-20 20:58:27,023 - INFO - Verifying page 2 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=2&qid=1732154300&ref=sr_pg_1
+2024-11-20 20:58:28,111 - INFO - Successfully navigated to page 3
+2024-11-20 20:58:30,128 - INFO - Verifying page 3 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=3&qid=1732154304&ref=sr_pg_2
+2024-11-20 20:58:31,223 - INFO - Successfully navigated to page 4
+2024-11-20 20:58:33,242 - INFO - Verifying page 4 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=4&qid=1732154307&ref=sr_pg_3
+2024-11-20 20:58:34,343 - INFO - Successfully navigated to page 5
+2024-11-20 20:58:36,360 - INFO - Verifying page 5 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=5&qid=1732154310&ref=sr_pg_4
+2024-11-20 20:58:37,455 - INFO - Successfully navigated to page 6
+2024-11-20 20:58:39,470 - INFO - Verifying page 6 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=6&qid=1732154313&ref=sr_pg_5
+2024-11-20 20:58:40,548 - INFO - Successfully navigated to page 7
+2024-11-20 20:58:42,567 - INFO - Verifying page 7 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=7&qid=1732154316&ref=sr_pg_6
+2024-11-20 20:58:47,749 - INFO - No next button found. Reached last page.
+2024-11-20 20:58:47,750 - INFO - Found 7 pages to scrape
+2024-11-20 20:58:47,750 - INFO - Scraping page 1 of 7
+2024-11-20 20:58:51,180 - INFO - Found 52 products on current page
+2024-11-20 21:02:30,467 - INFO - Scraping page 2 of 7
+2024-11-20 21:02:36,775 - INFO - Found 52 products on current page
+2024-11-20 21:06:00,937 - INFO - Scraping page 3 of 7
+2024-11-20 21:06:04,334 - INFO - Found 52 products on current page
+2024-11-20 21:09:18,339 - INFO - Scraping page 4 of 7
+2024-11-20 21:09:21,765 - INFO - Found 52 products on current page
+2024-11-20 21:12:31,381 - INFO - Scraping page 5 of 7
+2024-11-20 21:12:34,634 - INFO - Found 52 products on current page
+2024-11-20 21:15:36,167 - INFO - Scraping page 6 of 7
+2024-11-20 21:15:39,973 - INFO - Found 52 products on current page
+2024-11-20 21:18:47,319 - INFO - Scraping page 7 of 7
+2024-11-20 21:18:50,953 - INFO - Found 22 products on current page
+2024-11-20 21:20:19,307 - WARNING - No data to save!
+2024-11-20 21:27:20,141 - WARNING - The chromedriver version (130.0.6723.116) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (131.0.6778.85); currently, chromedriver 131.0.6778.85 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+2024-11-20 21:27:20,921 - INFO - Browser started successfully
+2024-11-20 21:27:20,921 - INFO - Navigating to Amazon and searching for: eco paper plates
+2024-11-20 21:27:35,556 - INFO - Sorting by Best Sellers...
+2024-11-20 21:27:35,731 - INFO - Successfully sorted by Best Sellers
+2024-11-20 21:27:38,736 - INFO - Verifying page navigation...
+2024-11-20 21:27:38,736 - INFO - Starting page navigation verification...
+2024-11-20 21:27:38,757 - INFO - Verifying page 1 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&qid=1732156050&ref=sr_st_exact-aware-popularity-rank&ds=v1%3A9N5ULTSqz6A2ySIcu0lmMxGcHjNZLPBsXnj%2FOTIY1yY
+2024-11-20 21:27:39,857 - INFO - Successfully navigated to page 2
+2024-11-20 21:27:41,877 - INFO - Verifying page 2 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=2&qid=1732156055&ref=sr_pg_1
+2024-11-20 21:27:42,976 - INFO - Successfully navigated to page 3
+2024-11-20 21:27:44,996 - INFO - Verifying page 3 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=3&qid=1732156058&ref=sr_pg_2
+2024-11-20 21:27:46,079 - INFO - Successfully navigated to page 4
+2024-11-20 21:27:48,097 - INFO - Verifying page 4 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=4&qid=1732156061&ref=sr_pg_3
+2024-11-20 21:27:49,307 - INFO - Successfully navigated to page 5
+2024-11-20 21:27:51,326 - INFO - Verifying page 5 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=5&qid=1732156065&ref=sr_pg_4
+2024-11-20 21:27:52,419 - INFO - Successfully navigated to page 6
+2024-11-20 21:27:54,439 - INFO - Verifying page 6 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=6&qid=1732156068&ref=sr_pg_5
+2024-11-20 21:27:55,520 - INFO - Successfully navigated to page 7
+2024-11-20 21:27:57,540 - INFO - Verifying page 7 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=7&qid=1732156071&ref=sr_pg_6
+2024-11-20 21:28:02,689 - INFO - No next button found. Reached last page.
+2024-11-20 21:28:02,690 - INFO - Found 7 pages to scrape
+2024-11-20 21:28:02,690 - INFO - Scraping page 1 of 7
+2024-11-20 21:28:06,070 - INFO - Found 52 products on current page
+2024-11-20 21:28:12,514 - INFO - Extracted data: Name: 100% Compostable Paper Plates, Heavy Duty Disposab... | Rating:  | Reviews: 22157 | Price: $21 | Buyers: 10000
+2024-11-20 21:28:19,287 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty Disposab... | Rating:  | Reviews: 3933 | Price: $26 | Buyers: 5000
+2024-11-20 21:28:25,566 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty, Disposa... | Rating:  | Reviews: 8096 | Price: $16 | Buyers: 5000
+2024-11-20 21:28:35,441 - INFO - Extracted data: Name: Vplus 150 Pack Compostable Disposable Paper Plates... | Rating:  | Reviews: 1913 | Price: $29 | Buyers: 3000
+2024-11-20 21:28:41,703 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating:  | Reviews: 207 | Price: $24 | Buyers: 1000
+2024-11-20 21:28:47,945 - INFO - Extracted data: Name: ECOLipak 100% Compostable 10 inch Paper Plates, 15... | Rating:  | Reviews: 1357 | Price: $28 | Buyers: 1000
+2024-11-20 21:28:54,085 - INFO - Extracted data: Name: Comfy Package [9 Inch - 125 Pack Heavy-Duty White ... | Rating:  | Reviews: 9307 | Price: $22 | Buyers: 1000
+2024-11-20 21:29:00,555 - INFO - Extracted data: Name: Vplus 150 Pack Paper Plates 9 inch 100% Compostabl... | Rating:  | Reviews: 862 | Price: $21 | Buyers: 1000
+2024-11-20 21:29:06,983 - INFO - Extracted data: Name: ECO SOUL 100% Compostable 6 Inch Small Paper Plate... | Rating:  | Reviews: 1901 | Price: $16 | Buyers: 1000
+2024-11-20 21:29:13,964 - INFO - Extracted data: Name: Hefty ECOSAVE Compostable Thanksgiving Paper Plate... | Rating:  | Reviews: 3235 | Price: $9 | Buyers: 800+
+2024-11-20 21:29:20,176 - INFO - Extracted data: Name: 100% Compostable Paper Plates [9 in.] – 150 Dispos... | Rating:  | Reviews: 385 | Price: $36 | Buyers: 1000
+2024-11-20 21:29:26,634 - INFO - Extracted data: Name: ECOLipak 120 Pack Compostable Paper Plates, 10 inc... | Rating:  | Reviews: 539 | Price: $29 | Buyers: 600+
+2024-11-20 21:29:32,805 - INFO - Extracted data: Name: Comfy Package [9 Inch - 125 Pack Paper Plates, 100... | Rating:  | Reviews: 3240 | Price: $21 | Buyers: 900+
+2024-11-20 21:29:38,866 - INFO - Extracted data: Name: ECOLipak 150 Piecs Compostable Square Plates, 6-in... | Rating:  | Reviews: 696 | Price: $22 | Buyers: 500+
+2024-11-20 21:29:45,072 - INFO - Extracted data: Name: 150 Pieces 100% Compostable 10"" Paper Plates, 3 C... | Rating:  | Reviews: 40 | Price: $26 | Buyers: 400+
+2024-11-20 21:29:51,293 - INFO - Extracted data: Name: Palm Leaf Plates 10 Inch Bamboo Paper Plates Dispo... | Rating:  | Reviews: 126 | Price: $28 | Buyers: 400+
+2024-11-20 21:29:57,452 - INFO - Extracted data: Name: Gezond Compostable Paper Plates Set 300pcs Disposa... | Rating:  | Reviews: 135 | Price: $35 | Buyers: 300+
+2024-11-20 21:30:03,863 - INFO - Extracted data: Name: 10 * 8 inch Small 5 Compartment Paper Plates [125-... | Rating:  | Reviews: 313 | Price: $24 | Buyers: 300+
+2024-11-20 21:30:09,924 - INFO - Extracted data: Name: Paper Plates 10 Inch [125 Count], 100% Compostable... | Rating:  | Reviews: 568 | Price: $19 | Buyers: 400+
+2024-11-20 21:30:16,191 - INFO - Extracted data: Name: Gezond Compostable Paper Plates Set 300 Pieces Dis... | Rating:  | Reviews: 139 | Price: $32 | Buyers: 300+
+2024-11-20 21:30:22,489 - INFO - Extracted data: Name: Jeopace Heavy Duty Paper Plates Set for Dinner,Dis... | Rating:  | Reviews: 1078 | Price: $26 | Buyers: 200+
+2024-11-20 21:30:28,807 - INFO - Extracted data: Name: 150 Pieces 100% Compostable Paper Plates (White 7i... | Rating:  | Reviews: 64 | Price: $19 | Buyers: 200+
+2024-11-20 21:30:35,196 - INFO - Extracted data: Name: Disposable Plates, Sturdy and Durable Compostable ... | Rating:  | Reviews: 154 | Price: $20 | Buyers: 100+
+2024-11-20 21:30:41,610 - INFO - Extracted data: Name: Dixie EcoSmart 100% Recycled Fiber Paper Plates, 1... | Rating:  | Reviews: 276 | Price: $27 | Buyers: 300+
+2024-11-20 21:30:48,333 - INFO - Extracted data: Name: Dixie EcoSmart 100% Recycled Fiber Paper Plates, 8... | Rating:  | Reviews: 1517 | Price: $14 | Buyers: 300+
+2024-11-20 21:30:54,373 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates Set (50) - 10 Inch Square D... | Rating:  | Reviews: 143 | Price: $32 | Buyers: 100+
+2024-11-20 21:31:00,879 - INFO - Extracted data: Name: Small Paper Plates, 100 Pack Paper Plates 6 inch, ... | Rating:  | Reviews: 93 | Price: $12 | Buyers: 200+
+2024-11-20 21:31:07,081 - INFO - Extracted data: Name: ECOLipak 125 Pack Paper Plates 10 inch 100% Compos... | Rating:  | Reviews: 93 | Price: $26 | Buyers: 200+
+2024-11-20 21:31:13,319 - INFO - Extracted data: Name: SOLO Bare Eco-Forward 9 Inch Plant-Based Sugarcane... | Rating:  | Reviews: 46 | Price: $46 | Buyers: 200+
+2024-11-20 21:31:19,233 - INFO - Extracted data: Name: Compostable Party Paper Plates Set -[300 Pcs] 10 i... | Rating:  | Reviews: 98 | Price: $34 | Buyers: 100+
+2024-11-20 21:31:25,176 - INFO - Extracted data: Name: Compostable Disposable Paper Plates Set -[300 Pcs]... | Rating:  | Reviews: 368 | Price: $33 | Buyers: 100+
+2024-11-20 21:31:31,602 - INFO - Extracted data: Name: 6 Inch Compostable Plates 100 Pack Heavy Duty Comp... | Rating:  | Reviews: 195 | Price: $13 | Buyers: 100+
+2024-11-20 21:31:37,719 - INFO - Extracted data: Name: SOL ECO Compostable Paper Plates, 400 PCS Heavy-Du... | Rating:  | Reviews: 129 | Price: $47 | Buyers: 100+
+2024-11-20 21:31:43,971 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 6 ... | Rating:  | Reviews: 181 | Price: $47 | Buyers: 100+
+2024-11-20 21:31:50,223 - INFO - Extracted data: Name: 100% Compostable Paper Plates [7 in.] – 150 Dispos... | Rating:  | Reviews: 222 | Price: $27 | Buyers: 200+
+2024-11-20 21:31:56,130 - INFO - Extracted data: Name: EconoHome 12 Inch Compostable Paper Plates [50-Pac... | Rating:  | Reviews: 277 | Price: $22 | Buyers: 100+
+2024-11-20 21:32:02,007 - INFO - Extracted data: Name: Paper Plates 9 Inches, 100 Pack Disposable Plates ... | Rating:  | Reviews: 214 | Price: $17 | Buyers: 100+
+2024-11-20 21:32:08,265 - INFO - Extracted data: Name: ECO SOUL 200 Pcs Compostable Dinnerware Set For 25... | Rating:  | Reviews: 59 | Price: $28 | Buyers: 50+
+2024-11-20 21:32:14,405 - INFO - Extracted data: Name: JOLLY CHEF Compostable Heavy Duty Plates 10 Inch [... | Rating:  | Reviews: 349 | Price: $23 | Buyers: 300+
+2024-11-20 21:32:20,289 - INFO - Extracted data: Name: ECOLipak Paper Plates 10 Inch, 150 Pack 100% Compo... | Rating:  | Reviews: 36 | Price: $21 | Buyers: 100+
+2024-11-20 21:32:26,665 - INFO - Extracted data: Name: Paper Compostable Plates - 7 Inch Heavy Duty Paper... | Rating:  | Reviews: 296 | Price: $6 | Buyers: 50+
+2024-11-20 21:32:32,682 - INFO - Extracted data: Name: Disposable Compostable Paper Plates 6 Inch [125-Pa... | Rating:  | Reviews: 96 | Price: $14 | Buyers: 100+
+2024-11-20 21:32:38,727 - INFO - Extracted data: Name: brheez Palm Leaf Party Plates 25 Ct 6 Inch Eco Fri... | Rating:  | Reviews: 1597 | Price: $15 | Buyers: 50+
+2024-11-20 21:32:44,676 - INFO - Extracted data: Name: ECO SOUL Compostable 8 Inch Palm Leaf Square Plate... | Rating:  | Reviews: 1920 | Price: $90 | Buyers: 100+
+2024-11-20 21:32:50,920 - INFO - Extracted data: Name: EconoHome 50 Pack Disposable Plates with 3 Compart... | Rating:  | Reviews: 125 | Price: $20 | Buyers: 50+
+2024-11-20 21:32:57,424 - INFO - Extracted data: Name: Paper Plates 6 inch, 50 Pack Small Paper Plates, E... | Rating:  | Reviews: 278 | Price: $9 | Buyers: 50+
+2024-11-20 21:33:03,531 - INFO - Extracted data: Name: Disposable Compostable Paper Plates 9 Inch [125-Pa... | Rating:  | Reviews: 56 | Price: $21 | Buyers: 50+
+2024-11-20 21:33:10,562 - INFO - Extracted data: Name: Dixie EcoSmart 100% Recycled Fiber Paper Plates, 1... | Rating:  | Reviews: 136 | Price: $9 | Buyers: 50+
+2024-11-20 21:33:16,768 - INFO - Extracted data: Name: 250 Piece Biodegradable Paper Plates Set (EXTRA LO... | Rating:  | Reviews: 1754 | Price: $31 | Buyers: 800+
+2024-11-20 21:33:22,744 - INFO - Extracted data: Name: 100% Compostable Disposable Paper Plates Bulk [6" ... | Rating:  | Reviews: 10558 | Price: $11 | Buyers: 200+
+2024-11-20 21:33:29,089 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Disposable Plates - Bamboo Pla... | Rating:  | Reviews: 2112 | Price: $34 | Buyers: 4000
+2024-11-20 21:33:35,579 - INFO - Extracted data: Name: 7 inch Disposable Paper Plates 125 Count Made of B... | Rating:  | Reviews: 43 | Price: $13 | Buyers: 100+
+2024-11-20 21:33:36,587 - INFO - Saved 52 products to amazon_products_page_1.csv
+2024-11-20 21:33:36,589 - INFO - Saved combined data (52 products) to amazon_products_all.csv
+2024-11-20 21:33:36,589 - INFO - Completed scraping and saving page 1
+2024-11-20 21:33:36,589 - INFO - Scraping page 2 of 7
+2024-11-20 21:33:40,156 - INFO - Found 52 products on current page
+2024-11-20 21:33:50,014 - INFO - Extracted data: Name: 100% Compostable Disposable Paper Plates Bulk [9" ... | Rating:  | Reviews: 10558 | Price: $13 | Buyers: N/A
+2024-11-20 21:33:55,837 - INFO - Extracted data: Name: ECOLipak 350 Pack Compostable Paper Plates Set, He... | Rating:  | Reviews: 432 | Price: $29 | Buyers: 50+
+2024-11-20 21:34:02,285 - INFO - Extracted data: Name: ECO SOUL Pearl White 9 Inch [100-Pack] Paper Plate... | Rating:  | Reviews: 245 | Price: $18 | Buyers: 100+
+2024-11-20 21:34:14,127 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating:  | Reviews: 231 | Price: $39 | Buyers: N/A
+2024-11-20 21:34:25,083 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating:  | Reviews: 33 | Price: $31 | Buyers: N/A
+2024-11-20 21:34:36,346 - INFO - Extracted data: Name: 100% Compostable Round Plates [10" - 100 Count] He... | Rating:  | Reviews: 516 | Price: $25 | Buyers: N/A
+2024-11-20 21:34:47,564 - INFO - Extracted data: Name: GREEN SAHARA 6 Inch Paper Plates [100-Pack] Dispos... | Rating:  | Reviews: 1 | Price: $6 | Buyers: N/A
+2024-11-20 21:34:58,806 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating:  | Reviews: 127 | Price: $55 | Buyers: N/A
+2024-11-20 21:35:04,846 - INFO - Extracted data: Name: 100% Compostable Paper Plates [9 in.] COMPARTMENTS... | Rating:  | Reviews: 123 | Price: $38 | Buyers: 50+
+2024-11-20 21:35:11,039 - INFO - Extracted data: Name: Compostable Bamboo Disposable Plates 5 Compartment... | Rating:  | Reviews: 111 | Price: $39 | Buyers: 50+
+2024-11-20 21:35:17,043 - INFO - Extracted data: Name: 100% Compostable Paper Plates 7 Inch 150 Pcs Dispo... | Rating:  | Reviews: 10 | Price: $12 | Buyers: 50+
+2024-11-20 21:35:28,058 - INFO - Extracted data: Name: Talking Tables 8 x Safari Animal Themed Paper Plat... | Rating:  | Reviews: 87 | Price: $7 | Buyers: N/A
+2024-11-20 21:35:39,528 - INFO - Extracted data: Name: 40 10" Square Palm Leaf Plates + 80 Cutlery or Woo... | Rating:  | Reviews: 1134 | Price: $30 | Buyers: N/A
+2024-11-20 21:35:50,688 - INFO - Extracted data: Name: Dhaey 100% Compostable Plates 50pcs Biodegradable ... | Rating:  | Reviews: 17 | Price: $11 | Buyers: N/A
+2024-11-20 21:36:01,998 - INFO - Extracted data: Name: SUGARFIBER 10-inch Compostable Disposable Paper Pl... | Rating:  | Reviews: 598 | Price: $29 | Buyers: N/A
+2024-11-20 21:36:13,377 - INFO - Extracted data: Name: SOLAS Christmas Paper Plates - Festive Disposable ... | Rating:  | Reviews: 189 | Price: $11 | Buyers: N/A
+2024-11-20 21:36:24,565 - INFO - Extracted data: Name: 9-Inch Disposable Paper Plates - 500 Count - Bulk ... | Rating:  | Reviews: 39 | Price: $29 | Buyers: N/A
+2024-11-20 21:36:35,667 - INFO - Extracted data: Name: ECO SOUL 100% Compostable 10 Inch Paper Plates [10... | Rating:  | Reviews: 3 | Price: $123 | Buyers: N/A
+2024-11-20 21:36:46,767 - INFO - Extracted data: Name: | 10" & 6" & 3" Plate & 5" Bowl Combo Party Set 10... | Rating:  | Reviews: 26 | Price: $47 | Buyers: N/A
+2024-11-20 21:36:58,134 - INFO - Extracted data: Name: ECO SOUL 100% Compostable, Disposable Bagasse Pape... | Rating:  | Reviews: 75 | Price: $21 | Buyers: N/A
+2024-11-20 21:37:09,302 - INFO - Extracted data: Name: ECO SOUL Pearl White 6 Inch Small Square 400 [4x10... | Rating:  | Reviews: 212 | Price: $48 | Buyers: N/A
+2024-11-20 21:37:19,742 - INFO - Extracted data: Name: SOLO Bare Eco-Forward 9 Inch Plant-Based Sugarcane... | Rating:  | Reviews: 72 | Price: $43 | Buyers: N/A
+2024-11-20 21:37:30,919 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates Set (50 Pcs) Oval Plates 7x... | Rating:  | Reviews: 45 | Price: $27 | Buyers: N/A
+2024-11-20 21:37:41,945 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating:  | Reviews: 6 | Price: $15 | Buyers: N/A
+2024-11-20 21:37:53,225 - INFO - Extracted data: Name: ECO SOUL Pearl White 6 Inch Small Square 200 [2x10... | Rating:  | Reviews: 11 | Price: $25 | Buyers: N/A
+2024-11-20 21:38:04,258 - INFO - Extracted data: Name: ECO SOUL Compostable 6 Inch Small Palm Leaf Round ... | Rating:  | Reviews: 213 | Price: $136 | Buyers: N/A
+2024-11-20 21:38:15,516 - INFO - Extracted data: Name: Sophistiplate Eco-Friendly Compostable Dinner Plat... | Rating:  | Reviews: 43 | Price: $24 | Buyers: N/A
+2024-11-20 21:38:26,765 - INFO - Extracted data: Name: 40 PCS 10" Square Palm Leaf Plates Like Bamboo Pla... | Rating:  | Reviews: 100 | Price: $29 | Buyers: N/A
+2024-11-20 21:38:43,471 - INFO - Extracted data: Name: 100% Paper Plate,Compostable,Recyclable,Disposable... | Rating:  | Reviews: N/A | Price: $5 | Buyers: N/A
+2024-11-20 21:38:54,839 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates (50), 9" Round | Bamboo Pla... | Rating:  | Reviews: 31 | Price: $29 | Buyers: N/A
+2024-11-20 21:39:06,252 - INFO - Extracted data: Name: Paper Plates - 8 Inch Biodegradable, Heavy Duty, M... | Rating:  | Reviews: 142 | Price: $21 | Buyers: N/A
+2024-11-20 21:39:17,189 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 6 Inch Round (50) | Bamboo ... | Rating:  | Reviews: 11 | Price: $25 | Buyers: N/A
+2024-11-20 21:39:28,548 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating:  | Reviews: 145 | Price: $15 | Buyers: N/A
+2024-11-20 21:39:39,748 - INFO - Extracted data: Name: Paper Plates Disposable 9 Inch 100% Compostable He... | Rating:  | Reviews: 4 | Price: $16 | Buyers: N/A
+2024-11-20 21:39:55,797 - INFO - Extracted data: Name: Disposable 3 Compartment Paper Plates, 100% Compos... | Rating:  | Reviews: N/A | Price: $25 | Buyers: N/A
+2024-11-20 21:40:07,084 - INFO - Extracted data: Name: 100% Compostable 9 inch Paper Plates [150-Pack], H... | Rating:  | Reviews: 3 | Price: $15 | Buyers: N/A
+2024-11-20 21:40:18,149 - INFO - Extracted data: Name: Dtocs 3 Compartment Plates (50 Pc) Palm Leaf Plate... | Rating:  | Reviews: 14 | Price: $35 | Buyers: N/A
+2024-11-20 21:40:28,982 - INFO - Extracted data: Name: 9 Inch Round Paper Plates - 100% Compostable - Hea... | Rating:  | Reviews: 1 | Price: $12 | Buyers: N/A
+2024-11-20 21:40:40,250 - INFO - Extracted data: Name: Antimbee Paper Plates 130 Pack (7 inch), Heavy Dut... | Rating:  | Reviews: 10 | Price: $8 | Buyers: N/A
+2024-11-20 21:40:51,240 - INFO - Extracted data: Name: Disposable plates 10inch square plates 16cm fork a... | Rating:  | Reviews: 2 | Price: $24 | Buyers: N/A
+2024-11-20 21:41:02,420 - INFO - Extracted data: Name: Paper Plates, Compostable Heavy Duty Disposable 9 ... | Rating:  | Reviews: 343 | Price: $39 | Buyers: N/A
+2024-11-20 21:41:20,151 - INFO - Extracted data: Name: ECO PRODUCTS Compostable Vanguard 9" Paper Plates,... | Rating:  | Reviews: N/A | Price: $72 | Buyers: N/A
+2024-11-20 21:41:31,383 - INFO - Extracted data: Name: 300PCS Compostable Paper Plates Set, Biodegradable... | Rating:  | Reviews: 138 | Price: $29 | Buyers: N/A
+2024-11-20 21:41:42,511 - INFO - Extracted data: Name: Heavyweights Paper Plates, White... | Rating:  | Reviews: 33 | Price: $17 | Buyers: N/A
+2024-11-20 21:41:53,846 - INFO - Extracted data: Name: 400PCS Compostable Paper Plates Set, Disposable Ec... | Rating:  | Reviews: 117 | Price: $45 | Buyers: N/A
+2024-11-20 21:42:10,068 - INFO - Extracted data: Name: 6 Inch Disposable Bamboo Paper Plates - 125 Pack H... | Rating:  | Reviews: N/A | Price: $12 | Buyers: N/A
+2024-11-20 21:42:20,712 - INFO - Extracted data: Name: Talking Tables 8 x Safari Animal Themed Paper Plat... | Rating:  | Reviews: 2 | Price: $8 | Buyers: N/A
+2024-11-20 21:42:32,125 - INFO - Extracted data: Name: 50-Pack 10” Square Palm Leaf Plates - Premium Eco-... | Rating:  | Reviews: 26 | Price: $33 | Buyers: N/A
+2024-11-20 21:42:38,495 - INFO - Extracted data: Name: Gezond 250Pcs Disposable Paper Plates Set, Compost... | Rating:  | Reviews: 1674 | Price: $29 | Buyers: 1000
+2024-11-20 21:42:44,857 - INFO - Extracted data: Name: ECOLipak 125 Pack Paper Plates 10 inch 100% Compos... | Rating:  | Reviews: 93 | Price: $26 | Buyers: 200+
+2024-11-20 21:42:51,389 - INFO - Extracted data: Name: Vplus 125 Pack 6 inch Paper Plates 100% Compostabl... | Rating:  | Reviews: 862 | Price: $14 | Buyers: 200+
+2024-11-20 21:42:57,717 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Plates Bamboo Like Disposable ... | Rating:  | Reviews: 1296 | Price: $46 | Buyers: 50+
+2024-11-20 21:42:58,724 - INFO - Saved 52 products to amazon_products_page_2.csv
+2024-11-20 21:42:58,726 - INFO - Saved combined data (104 products) to amazon_products_all.csv
+2024-11-20 21:42:58,726 - INFO - Completed scraping and saving page 2
+2024-11-20 21:42:58,726 - INFO - Scraping page 3 of 7
+2024-11-20 21:43:02,198 - INFO - Found 52 products on current page
+2024-11-20 21:43:13,447 - INFO - Extracted data: Name: 50-Pack 10” Square Palm Leaf Plates - Premium Eco-... | Rating:  | Reviews: 26 | Price: $33 | Buyers: N/A
+2024-11-20 21:43:24,687 - INFO - Extracted data: Name: Pumpkin Orange Round Disposable Dessert Paper Plat... | Rating:  | Reviews: 948 | Price: $6 | Buyers: N/A
+2024-11-20 21:43:36,190 - INFO - Extracted data: Name: 125 Pack Compostable Disposable Paper Plates 9 Inc... | Rating:  | Reviews: 91 | Price: $20 | Buyers: N/A
+2024-11-20 21:43:47,093 - INFO - Extracted data: Name: ECO PRODUCTS Disposable Square Sugarcane Plate, Ec... | Rating:  | Reviews: 54 | Price: $85 | Buyers: N/A
+2024-11-20 21:43:57,680 - INFO - Extracted data: Name: Sparkling Celebration "80" Round Prismatic Plates,... | Rating:  | Reviews: 161 | Price: $6 | Buyers: N/A
+2024-11-20 21:44:13,750 - INFO - Extracted data: Name: 9 Inch Disposable Bamboo Paper Plates - 50 Pack He... | Rating:  | Reviews: N/A | Price: $12 | Buyers: N/A
+2024-11-20 21:44:24,657 - INFO - Extracted data: Name: Disposable Paper Plates Set 250 Pcs, 100% Composta... | Rating:  | Reviews: 6 | Price: $22 | Buyers: N/A
+2024-11-20 21:44:35,928 - INFO - Extracted data: Name: Royal Blue Round Dessert Paper Plates - 6 7/8 in (... | Rating:  | Reviews: 55 | Price: $6 | Buyers: N/A
+2024-11-20 21:44:46,981 - INFO - Extracted data: Name: Palm Leaf Plates Square 10"[50] Bamboo Plates Disp... | Rating:  | Reviews: 574 | Price: $35 | Buyers: N/A
+2024-11-20 21:44:58,142 - INFO - Extracted data: Name: NYHI Heavy Duty Plates 7 Inch Disposable Plates Fo... | Rating:  | Reviews: 78 | Price: $19 | Buyers: N/A
+2024-11-20 21:45:09,547 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 7x11 Inch Rectangle Plates ... | Rating:  | Reviews: 5 | Price: $62 | Buyers: N/A
+2024-11-20 21:45:25,598 - INFO - Extracted data: Name: SIMOND STORE - 7 Inch Compostable Square Plates - ... | Rating:  | Reviews: N/A | Price: $15 | Buyers: N/A
+2024-11-20 21:45:36,859 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 6" Paper Plates, Case of ... | Rating:  | Reviews: 17 | Price: $76 | Buyers: N/A
+2024-11-20 21:45:48,181 - INFO - Extracted data: Name: 100% Compostable Natural Plant Fiber Plate, 6-Inch... | Rating:  | Reviews: 68 | Price: $84 | Buyers: N/A
+2024-11-20 21:45:58,819 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 9" Paper Plates, Case of ... | Rating:  | Reviews: 33 | Price: $75 | Buyers: N/A
+2024-11-20 21:46:10,457 - INFO - Extracted data: Name: Amscan Floral Sweet Baby Girl Round Plates, 7" (8-... | Rating:  | Reviews: 7 | Price: $3 | Buyers: N/A
+2024-11-20 21:46:26,589 - INFO - Extracted data: Name: SOLO Bare Eco-Forward Sugarcane Dinnerware, Plate,... | Rating:  | Reviews: N/A | Price: $26 | Buyers: N/A
+2024-11-20 21:46:37,501 - INFO - Extracted data: Name: Juvale 48-Pack Kraft Gold Foil Dots 9 Inch Paper P... | Rating:  | Reviews: 16 | Price: $10 | Buyers: N/A
+2024-11-20 21:46:48,731 - INFO - Extracted data: Name: 100% Compostable 10 Inch Paper Plates [125-Pack] D... | Rating:  | Reviews: 21 | Price: $19 | Buyers: N/A
+2024-11-20 21:46:59,602 - INFO - Extracted data: Name: Verde Planet - 12 inch Oval Bagasse Plates - Biode... | Rating:  | Reviews: 49 | Price: $36 | Buyers: N/A
+2024-11-20 21:47:10,696 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates (50) Oval Plate Set | 10 In... | Rating:  | Reviews: 20 | Price: $30 | Buyers: N/A
+2024-11-20 21:47:21,856 - INFO - Extracted data: Name: Pack of 12 Colourful Star Paper Plates | Rainbow P... | Rating:  | Reviews: 10 | Price: $6 | Buyers: N/A
+2024-11-20 21:47:32,883 - INFO - Extracted data: Name: Ecoplates [50 Pack] 10-Inch Paper Plates 100% Comp... | Rating:  | Reviews: 1 | Price: $13 | Buyers: N/A
+2024-11-20 21:47:44,109 - INFO - Extracted data: Name: ECO SOUL 100% Compostable, Disposable Bagasse Pape... | Rating:  | Reviews: 1 | Price: $9 | Buyers: N/A
+2024-11-20 21:47:55,129 - INFO - Extracted data: Name: Dtocs Bamboo Plate Disposable Like 10" Oval Palm L... | Rating:  | Reviews: 9 | Price: $31 | Buyers: N/A
+2024-11-20 21:48:06,313 - INFO - Extracted data: Name: Holiday Party Dinnerware Eco Set of 300 Eco-Friend... | Rating:  | Reviews: 447 | Price: $62 | Buyers: N/A
+2024-11-20 21:48:17,314 - INFO - Extracted data: Name: Hot Wheels Wild Racer Round Plates (9", Pack of 8)... | Rating:  | Reviews: 218 | Price: $8 | Buyers: N/A
+2024-11-20 21:48:33,342 - INFO - Extracted data: Name: Comfy Package [Case of 500] 9 Inch Paper Plates, 1... | Rating:  | Reviews: N/A | Price: $57 | Buyers: N/A
+2024-11-20 21:48:44,125 - INFO - Extracted data: Name: Efavormart 24 Pack | 9" White Round Dinner Paper P... | Rating:  | Reviews: 21 | Price: $6 | Buyers: N/A
+2024-11-20 21:48:55,043 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating:  | Reviews: 4 | Price: $15 | Buyers: N/A
+2024-11-20 21:49:06,296 - INFO - Extracted data: Name: TCC - Mini Individual Palm Leaf Condiment Cups, 2,... | Rating:  | Reviews: 16 | Price: $19 | Buyers: N/A
+2024-11-20 21:49:22,190 - INFO - Extracted data: Name: 6 Inch Disposable Bamboo Paper Plates - 60 Pack He... | Rating:  | Reviews: N/A | Price: $9 | Buyers: N/A
+2024-11-20 21:49:33,080 - INFO - Extracted data: Name: Fun Express Classic Red & Blue Bandana Paper Desse... | Rating:  | Reviews: 4 | Price: $3 | Buyers: N/A
+2024-11-20 21:49:43,965 - INFO - Extracted data: Name: Earth's Natural Alternative Eco-friendly Camping S... | Rating:  | Reviews: 736 | Price: $17 | Buyers: N/A
+2024-11-20 21:49:54,881 - INFO - Extracted data: Name: Talking Tables Mermaid Themed Strong Disposable Pa... | Rating:  | Reviews: 46 | Price: $7 | Buyers: N/A
+2024-11-20 21:50:05,912 - INFO - Extracted data: Name: Solo HP9S-2050 9 in White Paper Plate, Heavy Weigh... | Rating:  | Reviews: 2 | Price: $65 | Buyers: N/A
+2024-11-20 21:50:21,522 - INFO - Extracted data: Name: brheez Palm Leaf Party Plates 50 Ct 12 Inch Eco Fr... | Rating:  | Reviews: N/A | Price: $47 | Buyers: N/A
+2024-11-20 21:50:32,556 - INFO - Extracted data: Name: Paper Plates, 100% Compostable-[10 Inch by 0.5" de... | Rating:  | Reviews: 147 | Price: $29 | Buyers: N/A
+2024-11-20 21:50:43,890 - INFO - Extracted data: Name: Go-Green 100% Compostable Disposable Paper Plates,... | Rating:  | Reviews: 133 | Price: $15 | Buyers: N/A
+2024-11-20 21:50:54,836 - INFO - Extracted data: Name: Square Palm Leaf Plates Set (Pack of 25) | Dinner ... | Rating:  | Reviews: 689 | Price: $26 | Buyers: N/A
+2024-11-20 21:51:05,518 - INFO - Extracted data: Name: 10" SQUARE Palm Leaf plate / 100-ct case... | Rating:  | Reviews: 46 | Price: $74 | Buyers: N/A
+2024-11-20 21:51:16,432 - INFO - Extracted data: Name: brheez Palm Leaf Bowls 200 Pack - 4 inch Eco Frien... | Rating:  | Reviews: 739 | Price: $69 | Buyers: N/A
+2024-11-20 21:51:32,111 - INFO - Extracted data: Name: brheez Palm Leaf Party Plates 50 Pack - 6 Inch Eco... | Rating:  | Reviews: N/A | Price: $33 | Buyers: N/A
+2024-11-20 21:51:42,497 - INFO - Extracted data: Name: Palm Naki Oval Palm Leaf Platter - Compostable Ova... | Rating:  | Reviews: 3 | Price: $39 | Buyers: N/A
+2024-11-20 21:51:53,410 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 10" Paper Plates, Case of... | Rating:  | Reviews: 16 | Price: $74 | Buyers: N/A
+2024-11-20 21:52:04,018 - INFO - Extracted data: Name: Talking Tables Mermaid Party Decorations and Table... | Rating:  | Reviews: 29 | Price: $24 | Buyers: N/A
+2024-11-20 21:52:05,617 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/d5b274fb4f8116d56024b7d47c75df5a
+2024-11-20 21:52:05,620 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103879f90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d5b274fb4f8116d56024b7d47c75df5a
+2024-11-20 21:52:05,621 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103891220>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d5b274fb4f8116d56024b7d47c75df5a
+2024-11-21 14:49:14,318 - WARNING - The chromedriver version (130.0.6723.116) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (131.0.6778.85); currently, chromedriver 131.0.6778.85 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+2024-11-21 14:49:15,472 - INFO - Browser started successfully
+2024-11-21 14:49:15,472 - INFO - Navigating to Amazon and searching for: eco paper plates
+2024-11-21 14:49:28,365 - INFO - Sorting by Best Sellers...
+2024-11-21 14:49:28,576 - INFO - Successfully sorted by Best Sellers
+2024-11-21 14:49:31,581 - INFO - Verifying page navigation...
+2024-11-21 14:49:31,581 - INFO - Starting page navigation verification...
+2024-11-21 14:49:31,598 - INFO - Verifying page 1 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&crid=7LOE1MFV1NQ&qid=1732218563&sprefix=%2Caps%2C65&ref=sr_st_exact-aware-popularity-rank&ds=v1%3APFFAffSslg7ZVrbWs2iCWukqcvo2UQfPij%2BBKq9vbbw
+2024-11-21 14:49:32,696 - INFO - Successfully navigated to page 2
+2024-11-21 14:49:34,714 - INFO - Verifying page 2 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=2&crid=7LOE1MFV1NQ&qid=1732218568&sprefix=%2Caps%2C65&ref=sr_pg_1
+2024-11-21 14:49:35,803 - INFO - Successfully navigated to page 3
+2024-11-21 14:49:38,328 - INFO - Verifying page 3 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=3&crid=7LOE1MFV1NQ&qid=1732218571&sprefix=%2Caps%2C65&ref=sr_pg_2
+2024-11-21 14:49:39,415 - INFO - Successfully navigated to page 4
+2024-11-21 14:49:41,434 - INFO - Verifying page 4 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=4&crid=7LOE1MFV1NQ&qid=1732218574&sprefix=%2Caps%2C65&ref=sr_pg_3
+2024-11-21 14:49:42,520 - INFO - Successfully navigated to page 5
+2024-11-21 14:49:44,541 - INFO - Verifying page 5 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=5&crid=7LOE1MFV1NQ&qid=1732218578&sprefix=%2Caps%2C65&ref=sr_pg_4
+2024-11-21 14:49:45,627 - INFO - Successfully navigated to page 6
+2024-11-21 14:49:47,646 - INFO - Verifying page 6 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=6&crid=7LOE1MFV1NQ&qid=1732218581&sprefix=%2Caps%2C65&ref=sr_pg_5
+2024-11-21 14:49:48,715 - INFO - Successfully navigated to page 7
+2024-11-21 14:49:50,733 - INFO - Verifying page 7 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=7&crid=7LOE1MFV1NQ&qid=1732218584&sprefix=%2Caps%2C65&ref=sr_pg_6
+2024-11-21 14:49:55,879 - INFO - No next button found. Reached last page.
+2024-11-21 14:49:55,879 - INFO - Found 7 pages to scrape
+2024-11-21 14:49:55,879 - INFO - Scraping page 1 of 7
+2024-11-21 14:49:59,315 - INFO - Found 52 products on current page
+2024-11-21 14:50:05,232 - INFO - Extracted data: Name: 100% Compostable Paper Plates, Heavy Duty Disposab... | Rating:  | Reviews: 22163 | Price: $21 | Buyers: 10000
+2024-11-21 14:50:11,860 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty Disposab... | Rating:  | Reviews: 3937 | Price: $26 | Buyers: 5000
+2024-11-21 14:50:18,137 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty, Disposa... | Rating:  | Reviews: 8097 | Price: $16 | Buyers: 5000
+2024-11-21 14:50:24,425 - INFO - Extracted data: Name: Vplus 150 Pack Compostable Disposable Paper Plates... | Rating:  | Reviews: 1915 | Price: $25 | Buyers: 3000
+2024-11-21 14:50:31,374 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating:  | Reviews: 207 | Price: $25 | Buyers: 1000
+2024-11-21 14:50:37,551 - INFO - Extracted data: Name: ECOLipak 100% Compostable 10 inch Paper Plates, 15... | Rating:  | Reviews: 1358 | Price: $28 | Buyers: 1000
+2024-11-21 14:50:42,083 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/48b8b6f3008c378faaf6056111fbe921
+2024-11-21 14:50:42,087 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1025edf90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/48b8b6f3008c378faaf6056111fbe921
+2024-11-21 14:50:42,089 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1025edbd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/48b8b6f3008c378faaf6056111fbe921
+2024-11-21 14:52:21,604 - WARNING - The chromedriver version (130.0.6723.116) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (131.0.6778.85); currently, chromedriver 131.0.6778.85 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+2024-11-21 14:52:22,699 - INFO - Browser started successfully
+2024-11-21 14:52:22,699 - INFO - Navigating to Amazon and searching for: eco paper plates
+2024-11-21 14:52:35,830 - INFO - Sorting by Best Sellers...
+2024-11-21 14:52:36,034 - INFO - Successfully sorted by Best Sellers
+2024-11-21 14:52:39,039 - INFO - Verifying page navigation...
+2024-11-21 14:52:39,039 - INFO - Starting page navigation verification...
+2024-11-21 14:52:39,054 - INFO - Verifying page 1 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&crid=XMXT6KFH8DIZ&qid=1732218750&sprefix=%2Caps%2C59&ref=sr_st_exact-aware-popularity-rank&ds=v1%3ASZRykCgjqG7EqEQTJbeYdBuGa9fLL70QSeJi%2Fa2Nk0g
+2024-11-21 14:52:40,154 - INFO - Successfully navigated to page 2
+2024-11-21 14:52:42,172 - INFO - Verifying page 2 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=2&crid=XMXT6KFH8DIZ&qid=1732218756&sprefix=%2Caps%2C59&ref=sr_pg_1
+2024-11-21 14:52:43,279 - INFO - Successfully navigated to page 3
+2024-11-21 14:52:45,296 - INFO - Verifying page 3 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=3&crid=XMXT6KFH8DIZ&qid=1732218759&sprefix=%2Caps%2C59&ref=sr_pg_2
+2024-11-21 14:52:46,395 - INFO - Successfully navigated to page 4
+2024-11-21 14:52:48,413 - INFO - Verifying page 4 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=4&crid=XMXT6KFH8DIZ&qid=1732218762&sprefix=%2Caps%2C59&ref=sr_pg_3
+2024-11-21 14:52:49,596 - INFO - Successfully navigated to page 5
+2024-11-21 14:52:51,612 - INFO - Verifying page 5 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=5&crid=XMXT6KFH8DIZ&qid=1732218765&sprefix=%2Caps%2C59&ref=sr_pg_4
+2024-11-21 14:52:52,704 - INFO - Successfully navigated to page 6
+2024-11-21 14:52:54,720 - INFO - Verifying page 6 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=6&crid=XMXT6KFH8DIZ&qid=1732218768&sprefix=%2Caps%2C59&ref=sr_pg_5
+2024-11-21 14:52:55,817 - INFO - Successfully navigated to page 7
+2024-11-21 14:52:57,833 - INFO - Verifying page 7 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=7&crid=XMXT6KFH8DIZ&qid=1732218771&sprefix=%2Caps%2C59&ref=sr_pg_6
+2024-11-21 14:53:02,976 - INFO - No next button found. Reached last page.
+2024-11-21 14:53:02,976 - INFO - Found 7 pages to scrape
+2024-11-21 14:53:02,976 - INFO - Scraping page 1 of 7
+2024-11-21 14:53:06,394 - INFO - Found 52 products on current page
+2024-11-21 14:53:18,470 - INFO - Extracted data: Name: 100% Compostable Paper Plates, Heavy Duty Disposab... | Rating: N/A | Reviews: 22163 | Price: $21 | Buyers: 10000
+2024-11-21 14:53:30,527 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty Disposab... | Rating: N/A | Reviews: 3937 | Price: $26 | Buyers: 5000
+2024-11-21 14:53:41,709 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty, Disposa... | Rating: N/A | Reviews: 8097 | Price: $16 | Buyers: 5000
+2024-11-21 14:53:52,882 - INFO - Extracted data: Name: Vplus 150 Pack Compostable Disposable Paper Plates... | Rating: N/A | Reviews: 1915 | Price: $25 | Buyers: 3000
+2024-11-21 14:54:04,712 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating: N/A | Reviews: 207 | Price: $25 | Buyers: 1000
+2024-11-21 14:54:14,696 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/e3d0fe726c3501282a80ca8b8671458d
+2024-11-21 14:54:14,704 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105f1df90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e3d0fe726c3501282a80ca8b8671458d
+2024-11-21 14:54:14,707 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105f1dbd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e3d0fe726c3501282a80ca8b8671458d
+2024-11-21 14:56:30,308 - WARNING - The chromedriver version (130.0.6723.116) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (131.0.6778.85); currently, chromedriver 131.0.6778.85 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+2024-11-21 14:56:31,459 - INFO - Browser started successfully
+2024-11-21 14:56:31,459 - INFO - Navigating to Amazon and searching for: eco paper plates
+2024-11-21 14:56:45,778 - INFO - Sorting by Best Sellers...
+2024-11-21 14:56:45,970 - INFO - Successfully sorted by Best Sellers
+2024-11-21 14:56:48,975 - INFO - Verifying page navigation...
+2024-11-21 14:56:48,977 - INFO - Starting page navigation verification...
+2024-11-21 14:56:48,994 - INFO - Verifying page 1 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&crid=AGDQY3CE2CO0&qid=1732219000&sprefix=%2Caps%2C69&ref=sr_st_exact-aware-popularity-rank&ds=v1%3AIcw47%2BVc20%2BbY2c%2BTRQuRViHmZm4vXAdOijbJziAR9o
+2024-11-21 14:56:50,267 - INFO - Successfully navigated to page 2
+2024-11-21 14:56:52,292 - INFO - Verifying page 2 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=2&crid=AGDQY3CE2CO0&qid=1732219006&sprefix=%2Caps%2C69&ref=sr_pg_1
+2024-11-21 14:56:53,376 - INFO - Successfully navigated to page 3
+2024-11-21 14:56:55,392 - INFO - Verifying page 3 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=3&crid=AGDQY3CE2CO0&qid=1732219009&sprefix=%2Caps%2C69&ref=sr_pg_2
+2024-11-21 14:56:56,487 - INFO - Successfully navigated to page 4
+2024-11-21 14:56:58,502 - INFO - Verifying page 4 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=4&crid=AGDQY3CE2CO0&qid=1732219012&sprefix=%2Caps%2C69&ref=sr_pg_3
+2024-11-21 14:56:59,584 - INFO - Successfully navigated to page 5
+2024-11-21 14:57:01,604 - INFO - Verifying page 5 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=5&crid=AGDQY3CE2CO0&qid=1732219015&sprefix=%2Caps%2C69&ref=sr_pg_4
+2024-11-21 14:57:02,706 - INFO - Successfully navigated to page 6
+2024-11-21 14:57:05,242 - INFO - Verifying page 6 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=6&crid=AGDQY3CE2CO0&qid=1732219018&sprefix=%2Caps%2C69&ref=sr_pg_5
+2024-11-21 14:57:06,314 - INFO - Successfully navigated to page 7
+2024-11-21 14:57:08,333 - INFO - Verifying page 7 at URL: https://www.amazon.com/s?k=eco+paper+plates&s=exact-aware-popularity-rank&page=7&crid=AGDQY3CE2CO0&qid=1732219021&sprefix=%2Caps%2C69&ref=sr_pg_6
+2024-11-21 14:57:13,473 - INFO - No next button found. Reached last page.
+2024-11-21 14:57:13,474 - INFO - Found 7 pages to scrape
+2024-11-21 14:57:13,474 - INFO - Scraping page 1 of 7
+2024-11-21 14:57:16,830 - INFO - Found 52 products on current page
+2024-11-21 14:57:23,723 - INFO - Extracted data: Name: 100% Compostable Paper Plates, Heavy Duty Disposab... | Rating: 4.7 | Reviews: 22163 | Price: $21 | Buyers: 10000
+2024-11-21 14:57:30,852 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty Disposab... | Rating: 4.7 | Reviews: 3937 | Price: $26 | Buyers: 5000
+2024-11-21 14:57:37,215 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty, Disposa... | Rating: 4.6 | Reviews: 8097 | Price: $16 | Buyers: 5000
+2024-11-21 14:57:43,646 - INFO - Extracted data: Name: Vplus 150 Pack Compostable Disposable Paper Plates... | Rating: 4.7 | Reviews: 1915 | Price: $25 | Buyers: 3000
+2024-11-21 14:57:50,664 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating: 4.5 | Reviews: 207 | Price: $25 | Buyers: 1000
+2024-11-21 14:57:56,829 - INFO - Extracted data: Name: ECOLipak 100% Compostable 10 inch Paper Plates, 15... | Rating: 4.6 | Reviews: 1358 | Price: $28 | Buyers: 1000
+2024-11-21 14:58:03,366 - INFO - Extracted data: Name: Vplus 150 Pack Paper Plates 9 inch 100% Compostabl... | Rating: 4.7 | Reviews: 864 | Price: $23 | Buyers: 1000
+2024-11-21 14:58:10,552 - INFO - Extracted data: Name: Comfy Package [9 Inch - 125 Pack Heavy-Duty White ... | Rating: 4.7 | Reviews: 9308 | Price: $22 | Buyers: 1000
+2024-11-21 14:58:17,763 - INFO - Extracted data: Name: Hefty ECOSAVE Compostable Thanksgiving Paper Plate... | Rating: 4.6 | Reviews: 3235 | Price: $7 | Buyers: 900+
+2024-11-21 14:58:24,453 - INFO - Extracted data: Name: ECO SOUL 100% Compostable 6 Inch Small Paper Plate... | Rating: 4.6 | Reviews: 1901 | Price: $16 | Buyers: 1000
+2024-11-21 14:58:30,674 - INFO - Extracted data: Name: 100% Compostable Paper Plates [9 in.] – 150 Dispos... | Rating: 4.6 | Reviews: 385 | Price: $36 | Buyers: 1000
+2024-11-21 14:58:37,247 - INFO - Extracted data: Name: ECOLipak 120 Pack Compostable Paper Plates, 10 inc... | Rating: 4.7 | Reviews: 540 | Price: $29 | Buyers: 600+
+2024-11-21 14:58:44,053 - INFO - Extracted data: Name: Comfy Package [9 Inch - 125 Pack Paper Plates, 100... | Rating: 4.7 | Reviews: 3240 | Price: $20 | Buyers: 900+
+2024-11-21 14:58:50,397 - INFO - Extracted data: Name: 150 Pieces 100% Compostable 10"" Paper Plates, 3 C... | Rating: 4.6 | Reviews: 40 | Price: $21 | Buyers: 400+
+2024-11-21 14:58:57,082 - INFO - Extracted data: Name: ECOLipak 150 Piecs Compostable Square Plates, 6-in... | Rating: 4.7 | Reviews: 697 | Price: $22 | Buyers: 500+
+2024-11-21 14:59:03,991 - INFO - Extracted data: Name: 10 * 8 inch Small 5 Compartment Paper Plates [125-... | Rating: 4.7 | Reviews: 313 | Price: $24 | Buyers: 300+
+2024-11-21 14:59:10,172 - INFO - Extracted data: Name: Gezond Compostable Paper Plates Set 300pcs Disposa... | Rating: 4.8 | Reviews: 135 | Price: $30 | Buyers: 300+
+2024-11-21 14:59:16,587 - INFO - Extracted data: Name: Paper Plates 10 Inch [125 Count], 100% Compostable... | Rating: 4.7 | Reviews: 568 | Price: $24 | Buyers: 300+
+2024-11-21 14:59:23,062 - INFO - Extracted data: Name: Palm Leaf Plates 10 Inch Bamboo Paper Plates Dispo... | Rating: 4.6 | Reviews: 126 | Price: $28 | Buyers: 400+
+2024-11-21 14:59:29,907 - INFO - Extracted data: Name: Jeopace Heavy Duty Paper Plates Set for Dinner,Dis... | Rating: 4.6 | Reviews: 1078 | Price: $26 | Buyers: 200+
+2024-11-21 14:59:36,329 - INFO - Extracted data: Name: Dixie EcoSmart 100% Recycled Fiber Paper Plates, 8... | Rating: 4.5 | Reviews: 1517 | Price: $9 | Buyers: 300+
+2024-11-21 14:59:43,309 - INFO - Extracted data: Name: 150 Pieces 100% Compostable Paper Plates (White 7i... | Rating: 4.6 | Reviews: 64 | Price: $19 | Buyers: 200+
+2024-11-21 14:59:49,679 - INFO - Extracted data: Name: ECOLipak 125 Pack Paper Plates 10 inch 100% Compos... | Rating: 4.9 | Reviews: 93 | Price: $20 | Buyers: 200+
+2024-11-21 14:59:55,708 - INFO - Extracted data: Name: JOLLY CHEF Compostable Heavy Duty Plates 10 Inch [... | Rating: 4.7 | Reviews: 351 | Price: $16 | Buyers: 300+
+2024-11-21 15:00:02,067 - INFO - Extracted data: Name: Dixie EcoSmart 100% Recycled Fiber Paper Plates, 1... | Rating: 4.5 | Reviews: 276 | Price: $27 | Buyers: 300+
+2024-11-21 15:00:08,204 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates Set (50) - 10 Inch Square D... | Rating: 4.5 | Reviews: 143 | Price: $32 | Buyers: 100+
+2024-11-21 15:00:17,774 - INFO - Extracted data: Name: Disposable Plates, Sturdy and Durable Compostable ... | Rating: 4.7 | Reviews: 154 | Price: $20 | Buyers: 100+
+2024-11-21 15:00:24,199 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 6 ... | Rating: 4.5 | Reviews: 181 | Price: $47 | Buyers: 100+
+2024-11-21 15:00:30,523 - INFO - Extracted data: Name: SOLO Bare Eco-Forward 9 Inch Plant-Based Sugarcane... | Rating: 4.6 | Reviews: 47 | Price: $45 | Buyers: 200+
+2024-11-21 15:00:36,855 - INFO - Extracted data: Name: Compostable Party Paper Plates Set -[300 Pcs] 10 i... | Rating: 4.8 | Reviews: 98 | Price: $34 | Buyers: 100+
+2024-11-21 15:00:43,017 - INFO - Extracted data: Name: 100% Compostable Paper Plates [7 in.] – 150 Dispos... | Rating: 4.6 | Reviews: 222 | Price: $27 | Buyers: 200+
+2024-11-21 15:00:49,364 - INFO - Extracted data: Name: Compostable Disposable Paper Plates Set -[300 Pcs]... | Rating: 4.6 | Reviews: 368 | Price: $33 | Buyers: 100+
+2024-11-21 15:00:55,502 - INFO - Extracted data: Name: EconoHome 12 Inch Compostable Paper Plates [50-Pac... | Rating: 4.7 | Reviews: 277 | Price: $22 | Buyers: 100+
+2024-11-21 15:01:02,163 - INFO - Extracted data: Name: 6 Inch Compostable Plates 100 Pack Heavy Duty Comp... | Rating: 4.6 | Reviews: 197 | Price: $13 | Buyers: 100+
+2024-11-21 15:01:08,576 - INFO - Extracted data: Name: SOL ECO Compostable Paper Plates, 400 PCS Heavy-Du... | Rating: 4.3 | Reviews: 130 | Price: $47 | Buyers: 100+
+2024-11-21 15:01:15,961 - INFO - Extracted data: Name: ECO SOUL 200 Pcs Compostable Dinnerware Set For 25... | Rating: 4.8 | Reviews: 59 | Price: $23 | Buyers: 50+
+2024-11-21 15:01:22,223 - INFO - Extracted data: Name: Paper Plates 9 Inches, 100 Pack Disposable Plates ... | Rating: 4.5 | Reviews: 214 | Price: $17 | Buyers: 100+
+2024-11-21 15:01:28,913 - INFO - Extracted data: Name: ECOLipak Paper Plates 10 Inch, 150 Pack 100% Compo... | Rating: 4.7 | Reviews: 36 | Price: $18 | Buyers: 100+
+2024-11-21 15:01:35,244 - INFO - Extracted data: Name: brheez Palm Leaf Party Plates 25 Ct 6 Inch Eco Fri... | Rating: 4.5 | Reviews: 1597 | Price: $15 | Buyers: 50+
+2024-11-21 15:01:42,726 - INFO - Extracted data: Name: Disposable Compostable Paper Plates 6 Inch [125-Pa... | Rating: 4.5 | Reviews: 96 | Price: $14 | Buyers: 100+
+2024-11-21 15:01:49,505 - INFO - Extracted data: Name: Paper Plates 6 inch, 50 Pack Small Paper Plates, E... | Rating: 4.7 | Reviews: 279 | Price: $9 | Buyers: 50+
+2024-11-21 15:01:57,289 - INFO - Extracted data: Name: Paper Compostable Plates - 7 Inch Heavy Duty Paper... | Rating: 4.6 | Reviews: 298 | Price: $6 | Buyers: 50+
+2024-11-21 15:02:03,998 - INFO - Extracted data: Name: ECO SOUL Compostable 8 Inch Palm Leaf Square Plate... | Rating: 4.5 | Reviews: 1920 | Price: $77 | Buyers: 50+
+2024-11-21 15:02:11,738 - INFO - Extracted data: Name: Small Paper Plates 6 inch, 200 Pack Disposable Pap... | Rating: 4.5 | Reviews: 93 | Price: $23 | Buyers: 50+
+2024-11-21 15:02:18,923 - INFO - Extracted data: Name: Dixie EcoSmart 100% Recycled Fiber Paper Plates, 1... | Rating: 4.5 | Reviews: 136 | Price: $9 | Buyers: 50+
+2024-11-21 15:02:25,261 - INFO - Extracted data: Name: EconoHome 50 Pack Disposable Plates with 3 Compart... | Rating: 4.5 | Reviews: 125 | Price: $20 | Buyers: 50+
+2024-11-21 15:02:31,643 - INFO - Extracted data: Name: 100% Compostable Paper Plates [9 in.] COMPARTMENTS... | Rating: 4.4 | Reviews: 123 | Price: $38 | Buyers: 50+
+2024-11-21 15:02:43,009 - INFO - Extracted data: Name: 100% Compostable Disposable Paper Plates Bulk [9" ... | Rating: 4.7 | Reviews: 10635 | Price: $13 | Buyers: N/A
+2024-11-21 15:02:49,714 - INFO - Extracted data: Name: JOLLY CHEF Compostable Heavy Duty Plates 10 Inch [... | Rating: 4.7 | Reviews: 234 | Price: $22 | Buyers: 100+
+2024-11-21 15:02:55,952 - INFO - Extracted data: Name: Paper Plates, 100% Compostable Heavy Duty, Disposa... | Rating: 4.6 | Reviews: 8097 | Price: $16 | Buyers: 5000
+2024-11-21 15:03:02,690 - INFO - Extracted data: Name: 250 Piece Biodegradable Paper Plates Set (EXTRA LO... | Rating: 4.6 | Reviews: 1754 | Price: $32 | Buyers: 800+
+2024-11-21 15:03:10,277 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Disposable Plates - Bamboo Pla... | Rating: 4.5 | Reviews: 2112 | Price: $34 | Buyers: 4000
+2024-11-21 15:03:11,286 - INFO - Saved 52 products to amazon_products_page_1.csv
+2024-11-21 15:03:11,289 - INFO - Saved combined data (52 products) to amazon_products_all.csv
+2024-11-21 15:03:11,289 - INFO - Completed scraping and saving page 1
+2024-11-21 15:03:11,289 - INFO - Scraping page 2 of 7
+2024-11-21 15:03:15,576 - INFO - Found 52 products on current page
+2024-11-21 15:03:21,415 - INFO - Extracted data: Name: ECO SOUL Pearl White 9 Inch [100-Pack] Paper Plate... | Rating: 4.4 | Reviews: 245 | Price: $15 | Buyers: 100+
+2024-11-21 15:03:36,137 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating: 4.5 | Reviews: 231 | Price: $27 | Buyers: N/A
+2024-11-21 15:03:42,208 - INFO - Extracted data: Name: ECOLipak 350 Pack Compostable Paper Plates Set, He... | Rating: 4.7 | Reviews: 432 | Price: $29 | Buyers: 50+
+2024-11-21 15:03:48,458 - INFO - Extracted data: Name: Disposable Compostable Paper Plates 9 Inch [125-Pa... | Rating: 4.6 | Reviews: 56 | Price: $21 | Buyers: 50+
+2024-11-21 15:03:59,919 - INFO - Extracted data: Name: ECO SOUL 100% Compostable, Disposable Bagasse Pape... | Rating: 4.4 | Reviews: 75 | Price: $21 | Buyers: N/A
+2024-11-21 15:04:11,636 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating: 4.4 | Reviews: 33 | Price: $26 | Buyers: N/A
+2024-11-21 15:04:19,476 - INFO - Extracted data: Name: Compostable Bamboo Disposable Plates 5 Compartment... | Rating: 4.3 | Reviews: 111 | Price: $39 | Buyers: 50+
+2024-11-21 15:04:31,211 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating: 4.3 | Reviews: 127 | Price: $55 | Buyers: N/A
+2024-11-21 15:04:43,120 - INFO - Extracted data: Name: Dhaey Compostable Plates 7 inch, 50pcs Biodegradab... | Rating: 4.7 | Reviews: 17 | Price: $8 | Buyers: N/A
+2024-11-21 15:04:54,652 - INFO - Extracted data: Name: | 10 inch & 6 inch & 3 inch Combo Plates 75 pcs | ... | Rating: 4.6 | Reviews: 26 | Price: $29 | Buyers: N/A
+2024-11-21 15:05:05,917 - INFO - Extracted data: Name: GREEN SAHARA 6 Inch Paper Plates [100-Pack] Dispos... | Rating: 5.0 | Reviews: 1 | Price: $6 | Buyers: N/A
+2024-11-21 15:05:17,687 - INFO - Extracted data: Name: SUGARFIBER 10-inch Compostable Disposable Paper Pl... | Rating: 4.7 | Reviews: 605 | Price: $29 | Buyers: N/A
+2024-11-21 15:05:23,907 - INFO - Extracted data: Name: 100% Compostable Paper Plates 7 Inch 150 Pcs Dispo... | Rating: 5.0 | Reviews: 10 | Price: $12 | Buyers: 50+
+2024-11-21 15:05:35,869 - INFO - Extracted data: Name: SOLAS Christmas Paper Plates - Festive Disposable ... | Rating: 4.7 | Reviews: 189 | Price: $11 | Buyers: N/A
+2024-11-21 15:05:47,373 - INFO - Extracted data: Name: ECO SOUL 15 cm (6 Inch Small), 100 Pack Disposable... | Rating: 4.7 | Reviews: 212 | Price: $13 | Buyers: N/A
+2024-11-21 15:06:00,430 - INFO - Extracted data: Name: 40 10" Square Palm Leaf Plates + 80 Cutlery or Woo... | Rating: 4.7 | Reviews: 1134 | Price: $31 | Buyers: N/A
+2024-11-21 15:06:12,211 - INFO - Extracted data: Name: Sophistiplate Eco-Friendly Compostable Dinner Plat... | Rating: 4.5 | Reviews: 43 | Price: $24 | Buyers: N/A
+2024-11-21 15:06:23,486 - INFO - Extracted data: Name: Disposable plates 10inch square plates 16cm fork a... | Rating: 5.0 | Reviews: 2 | Price: $24 | Buyers: N/A
+2024-11-21 15:06:35,050 - INFO - Extracted data: Name: Talking Tables 8 x Safari Animal Themed Paper Plat... | Rating: 4.6 | Reviews: 87 | Price: $7 | Buyers: N/A
+2024-11-21 15:06:46,607 - INFO - Extracted data: Name: ECO SOUL 100% Compostable 10 Inch Paper Plates [10... | Rating: 3.7 | Reviews: 3 | Price: $123 | Buyers: N/A
+2024-11-21 15:06:57,840 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates Set (50 Pcs) Oval Plates 7x... | Rating: 4.5 | Reviews: 45 | Price: $27 | Buyers: N/A
+2024-11-21 15:07:19,392 - INFO - Extracted data: Name: 100% Paper Plate,Compostable,Recyclable,Disposable... | Rating: N/A | Reviews: N/A | Price: $5 | Buyers: N/A
+2024-11-21 15:07:31,009 - INFO - Extracted data: Name: 40 PCS 10" Square Palm Leaf Plates Like Bamboo Pla... | Rating: 4.6 | Reviews: 100 | Price: $29 | Buyers: N/A
+2024-11-21 15:07:43,738 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating: 4.8 | Reviews: 146 | Price: $15 | Buyers: N/A
+2024-11-21 15:07:55,266 - INFO - Extracted data: Name: 9-Inch Disposable Paper Plates - 300 Count - Bulk ... | Rating: 4.1 | Reviews: 39 | Price: $20 | Buyers: N/A
+2024-11-21 15:08:07,019 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates (50), 9" Round | Bamboo Pla... | Rating: 4.6 | Reviews: 31 | Price: $29 | Buyers: N/A
+2024-11-21 15:08:19,067 - INFO - Extracted data: Name: Paper Plates, Compostable Heavy Duty Disposable 9 ... | Rating: 5.0 | Reviews: 344 | Price: $31 | Buyers: N/A
+2024-11-21 15:08:42,033 - INFO - Extracted data: Name: ECO PRODUCTS Compostable Vanguard 9" Paper Plates,... | Rating: N/A | Reviews: N/A | Price: $85 | Buyers: N/A
+2024-11-21 15:08:53,443 - INFO - Extracted data: Name: ECO SOUL Pearl White 6 Inch Small Square 200 [2x10... | Rating: 4.4 | Reviews: 11 | Price: $20 | Buyers: N/A
+2024-11-21 15:09:04,356 - INFO - Extracted data: Name: SOLO Bare Eco-Forward 9 Inch Plant-Based Sugarcane... | Rating: 4.6 | Reviews: 72 | Price: $43 | Buyers: N/A
+2024-11-21 15:09:16,502 - INFO - Extracted data: Name: 300Pcs Compostable Paper Plates Set, Eco-friendly ... | Rating: 4.6 | Reviews: 190 | Price: $29 | Buyers: N/A
+2024-11-21 15:09:27,689 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating: 4.8 | Reviews: 6 | Price: $15 | Buyers: N/A
+2024-11-21 15:09:39,034 - INFO - Extracted data: Name: ECO SOUL Compostable 6 Inch Small Palm Leaf Round ... | Rating: 4.4 | Reviews: 213 | Price: $109 | Buyers: N/A
+2024-11-21 15:09:49,890 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 9" Paper Plates, Case of ... | Rating: 4.4 | Reviews: 33 | Price: $75 | Buyers: N/A
+2024-11-21 15:10:00,832 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 6 Inch Round (50) | Bamboo ... | Rating: 4.8 | Reviews: 11 | Price: $25 | Buyers: N/A
+2024-11-21 15:10:12,434 - INFO - Extracted data: Name: Paper Plates - 8 Inch Biodegradable, Heavy Duty, M... | Rating: 4.5 | Reviews: 143 | Price: $17 | Buyers: N/A
+2024-11-21 15:10:33,820 - INFO - Extracted data: Name: Comfy Package [Case of 500] 9 Inch Paper Plates, 1... | Rating: N/A | Reviews: N/A | Price: $57 | Buyers: N/A
+2024-11-21 15:10:44,615 - INFO - Extracted data: Name: Disposable 3 Compartment Paper Plates, 100% Compos... | Rating: 5.0 | Reviews: 1 | Price: $25 | Buyers: N/A
+2024-11-21 15:10:56,119 - INFO - Extracted data: Name: Square Palm Leaf Plates Set (Pack of 25) | Salad P... | Rating: 4.6 | Reviews: 689 | Price: $11 | Buyers: N/A
+2024-11-21 15:11:07,653 - INFO - Extracted data: Name: Paper Plates Disposable 9 Inch 100% Compostable He... | Rating: 4.5 | Reviews: 4 | Price: $16 | Buyers: N/A
+2024-11-21 15:11:19,387 - INFO - Extracted data: Name: ECO SOUL 100% Compostable, Disposable Bagasse Pape... | Rating: 5.0 | Reviews: 1 | Price: $9 | Buyers: N/A
+2024-11-21 15:11:31,092 - INFO - Extracted data: Name: 300PCS Compostable Paper Plates Set, Biodegradable... | Rating: 4.7 | Reviews: 138 | Price: $29 | Buyers: N/A
+2024-11-21 15:11:42,415 - INFO - Extracted data: Name: Compostable Paper Plates 14 Inch: 100 Pack Heavy D... | Rating: 5.0 | Reviews: 100 | Price: $31 | Buyers: N/A
+2024-11-21 15:11:53,738 - INFO - Extracted data: Name: Sophistiplate Beautiful NEW Wavy Eco-Friendly Comp... | Rating: 5.0 | Reviews: 2 | Price: $13 | Buyers: N/A
+2024-11-21 15:12:05,180 - INFO - Extracted data: Name: 9 Inch Round Paper Plates - 100% Compostable - Hea... | Rating: 4.0 | Reviews: 1 | Price: $12 | Buyers: N/A
+2024-11-21 15:12:16,859 - INFO - Extracted data: Name: Dtocs 3 Compartment Plates (50 Pc) Palm Leaf Plate... | Rating: 3.9 | Reviews: 14 | Price: $35 | Buyers: N/A
+2024-11-21 15:12:28,402 - INFO - Extracted data: Name: 100% Compostable 9 inch Paper Plates [150-Pack], H... | Rating: 5.0 | Reviews: 3 | Price: $15 | Buyers: N/A
+2024-11-21 15:12:40,009 - INFO - Extracted data: Name: Heavyweights Paper Plates, White... | Rating: 4.3 | Reviews: 33 | Price: $19 | Buyers: N/A
+2024-11-21 15:12:47,599 - INFO - Extracted data: Name: 100% Compostable Oval Paper Plates [50-Pack] - {PF... | Rating: 4.7 | Reviews: 5983 | Price: $20 | Buyers: 6000
+2024-11-21 15:12:54,105 - INFO - Extracted data: Name: Vplus 150 Pack Compostable Disposable Paper Plates... | Rating: 4.7 | Reviews: 1915 | Price: $25 | Buyers: 3000
+2024-11-21 15:13:01,455 - INFO - Extracted data: Name: 100% Compostable Disposable Paper Plates [125-Pack... | Rating: 4.5 | Reviews: 1804 | Price: $16 | Buyers: 1000
+2024-11-21 15:13:18,275 - INFO - Extracted data: Name: 100% Compostable 10 Inch Heavy-Duty [125-Pack] Eco... | Rating: N/A | Reviews: N/A | Price: $26 | Buyers: 2000
+2024-11-21 15:13:19,285 - INFO - Saved 52 products to amazon_products_page_2.csv
+2024-11-21 15:13:19,288 - INFO - Saved combined data (104 products) to amazon_products_all.csv
+2024-11-21 15:13:19,288 - INFO - Completed scraping and saving page 2
+2024-11-21 15:13:19,288 - INFO - Scraping page 3 of 7
+2024-11-21 15:13:24,541 - INFO - Found 52 products on current page
+2024-11-21 15:13:34,324 - INFO - Extracted data: Name: 9 Inch Round Paper Plates - 100% Compostable - Hea... | Rating: 4.0 | Reviews: 1 | Price: $12 | Buyers: N/A
+2024-11-21 15:13:44,963 - INFO - Extracted data: Name: Heavyweights Paper Plates, White... | Rating: 4.3 | Reviews: 33 | Price: $19 | Buyers: N/A
+2024-11-21 15:13:57,547 - INFO - Extracted data: Name: 400PCS Compostable Paper Plates Set, Disposable Ec... | Rating: 4.7 | Reviews: 117 | Price: $39 | Buyers: N/A
+2024-11-21 15:14:08,606 - INFO - Extracted data: Name: Talking Tables 8 x Safari Animal Themed Paper Plat... | Rating: 3.0 | Reviews: 2 | Price: $8 | Buyers: N/A
+2024-11-21 15:14:20,233 - INFO - Extracted data: Name: 50-Pack 10” Square Palm Leaf Plates - Premium Eco-... | Rating: 4.6 | Reviews: 26 | Price: $33 | Buyers: N/A
+2024-11-21 15:14:31,252 - INFO - Extracted data: Name: Efavormart 24 Pack | White 7" Round Geometric Gold... | Rating: 4.0 | Reviews: 3 | Price: $5 | Buyers: N/A
+2024-11-21 15:14:52,756 - INFO - Extracted data: Name: 6 Inch Disposable Bamboo Paper Plates - 125 Pack H... | Rating: N/A | Reviews: N/A | Price: $12 | Buyers: N/A
+2024-11-21 15:15:04,522 - INFO - Extracted data: Name: Antimbee Disposable Plates 9 inch (130 Pack), Heav... | Rating: 4.5 | Reviews: 10 | Price: $9 | Buyers: N/A
+2024-11-21 15:15:15,806 - INFO - Extracted data: Name: Disposable Paper Plates Set 250 Pcs, 100% Composta... | Rating: 5.0 | Reviews: 6 | Price: $22 | Buyers: N/A
+2024-11-21 15:15:27,186 - INFO - Extracted data: Name: Pumpkin Orange Round Disposable Dessert Paper Plat... | Rating: 4.4 | Reviews: 948 | Price: $6 | Buyers: N/A
+2024-11-21 15:15:38,670 - INFO - Extracted data: Name: Patra 50 pcs - 9 Inch square Palm Leaf Plates Disp... | Rating: 4.2 | Reviews: 15 | Price: $29 | Buyers: N/A
+2024-11-21 15:15:50,461 - INFO - Extracted data: Name: 125 Pack Compostable Disposable Paper Plates 9 Inc... | Rating: 4.5 | Reviews: 91 | Price: $20 | Buyers: N/A
+2024-11-21 15:16:01,533 - INFO - Extracted data: Name: Sparkling Celebration "80" Round Prismatic Plates,... | Rating: 4.4 | Reviews: 161 | Price: $6 | Buyers: N/A
+2024-11-21 15:16:23,245 - INFO - Extracted data: Name: 9 Inch Disposable Bamboo Paper Plates - 50 Pack He... | Rating: N/A | Reviews: N/A | Price: $12 | Buyers: N/A
+2024-11-21 15:16:34,698 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 7x11 Inch Rectangle Plates ... | Rating: 3.4 | Reviews: 5 | Price: $62 | Buyers: N/A
+2024-11-21 15:16:46,297 - INFO - Extracted data: Name: NYHI Heavy Duty Plates 7 Inch Disposable Plates Fo... | Rating: 4.7 | Reviews: 78 | Price: $19 | Buyers: N/A
+2024-11-21 15:16:57,231 - INFO - Extracted data: Name: ECO PRODUCTS Disposable Square Sugarcane Plate, Ec... | Rating: 4.3 | Reviews: 54 | Price: $85 | Buyers: N/A
+2024-11-21 15:17:08,841 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 6" Paper Plates, Case of ... | Rating: 4.3 | Reviews: 17 | Price: $76 | Buyers: N/A
+2024-11-21 15:17:20,185 - INFO - Extracted data: Name: 100% Compostable 9 Inch Paper Plates [125-Pack] Di... | Rating: 4.8 | Reviews: 21 | Price: $14 | Buyers: N/A
+2024-11-21 15:17:31,640 - INFO - Extracted data: Name: Disposable Palm Bamboo Plates Ecofriendly Heavy Du... | Rating: 4.6 | Reviews: 574 | Price: $32 | Buyers: N/A
+2024-11-21 15:17:42,926 - INFO - Extracted data: Name: Royal Blue Round Dessert Paper Plates - 6 7/8 in (... | Rating: 4.0 | Reviews: 55 | Price: $6 | Buyers: N/A
+2024-11-21 15:17:54,912 - INFO - Extracted data: Name: Amscan Floral Sweet Baby Girl Round Plates, 7" (8-... | Rating: 4.2 | Reviews: 7 | Price: $3 | Buyers: N/A
+2024-11-21 15:18:16,061 - INFO - Extracted data: Name: SOLO Bare Eco-Forward Sugarcane Dinnerware, Plate,... | Rating: N/A | Reviews: N/A | Price: $26 | Buyers: N/A
+2024-11-21 15:18:27,476 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates (50) Oval Plate Set | 10 In... | Rating: 4.8 | Reviews: 21 | Price: $30 | Buyers: N/A
+2024-11-21 15:18:48,707 - INFO - Extracted data: Name: SIMOND STORE - 7 Inch Compostable Square Plates - ... | Rating: N/A | Reviews: N/A | Price: $15 | Buyers: N/A
+2024-11-21 15:19:00,246 - INFO - Extracted data: Name: 100% Compostable Natural Plant Fiber Plate, 6-Inch... | Rating: 4.3 | Reviews: 68 | Price: $84 | Buyers: N/A
+2024-11-21 15:19:12,514 - INFO - Extracted data: Name: Pack of 12 Colourful Star Paper Plates | Rainbow P... | Rating: 3.5 | Reviews: 10 | Price: $6 | Buyers: N/A
+2024-11-21 15:19:24,458 - INFO - Extracted data: Name: Hot Wheels Wild Racer Round Plates (9", Pack of 8)... | Rating: 4.7 | Reviews: 218 | Price: $8 | Buyers: N/A
+2024-11-21 15:19:36,094 - INFO - Extracted data: Name: Ecoplates [50 Pack] 9-Inch Paper Plates 100% Compo... | Rating: 5.0 | Reviews: 1 | Price: $11 | Buyers: N/A
+2024-11-21 15:19:47,357 - INFO - Extracted data: Name: Verde Planet - 12 inch Oval Bagasse Plates - Biode... | Rating: 4.0 | Reviews: 49 | Price: $36 | Buyers: N/A
+2024-11-21 15:19:58,979 - INFO - Extracted data: Name: Holiday Party Dinnerware Eco Set of 300 Eco-Friend... | Rating: 4.7 | Reviews: 447 | Price: $62 | Buyers: N/A
+2024-11-21 15:20:10,090 - INFO - Extracted data: Name: Dtocs Bamboo Plate Disposable Like 10" Oval Palm L... | Rating: 4.7 | Reviews: 9 | Price: $31 | Buyers: N/A
+2024-11-21 15:20:21,426 - INFO - Extracted data: Name: Juvale 48-Pack Kraft Gold Foil Dots 9 Inch Paper P... | Rating: 3.6 | Reviews: 16 | Price: $10 | Buyers: N/A
+2024-11-21 15:20:32,579 - INFO - Extracted data: Name: Efavormart 24 Pack | 9" White Round Dinner Paper P... | Rating: 4.6 | Reviews: 21 | Price: $6 | Buyers: N/A
+2024-11-21 15:20:44,685 - INFO - Extracted data: Name: TCC - Mini Individual Palm Leaf Condiment Cups, 2,... | Rating: 4.9 | Reviews: 16 | Price: $19 | Buyers: N/A
+2024-11-21 15:20:55,546 - INFO - Extracted data: Name: Palm Leaf Plates Bamboo Paper Plates Disposable 10... | Rating: 4.7 | Reviews: 4 | Price: $15 | Buyers: N/A
+2024-11-21 15:21:07,119 - INFO - Extracted data: Name: Premium 9 Inch Round White Paper Plates [50-Pack] ... | Rating: 4.5 | Reviews: 9 | Price: $12 | Buyers: N/A
+2024-11-21 15:21:28,309 - INFO - Extracted data: Name: 6 Inch Disposable Bamboo Paper Plates - 60 Pack He... | Rating: N/A | Reviews: N/A | Price: $9 | Buyers: N/A
+2024-11-21 15:21:39,476 - INFO - Extracted data: Name: Fun Express Classic Red & Blue Bandana Paper Desse... | Rating: 5.0 | Reviews: 4 | Price: $3 | Buyers: N/A
+2024-11-21 15:21:50,669 - INFO - Extracted data: Name: Talking Tables Mermaid Themed Strong Disposable Pa... | Rating: 4.1 | Reviews: 46 | Price: $7 | Buyers: N/A
+2024-11-21 15:22:01,903 - INFO - Extracted data: Name: Solo HP9S-2050 9 in White Paper Plate, Heavy Weigh... | Rating: 4.3 | Reviews: 2 | Price: $65 | Buyers: N/A
+2024-11-21 15:22:13,415 - INFO - Extracted data: Name: Paper Plates, 100% Compostable-[10 Inch by 0.5" de... | Rating: 4.7 | Reviews: 147 | Price: $29 | Buyers: N/A
+2024-11-21 15:22:34,581 - INFO - Extracted data: Name: brheez Palm Leaf Party Plates 50 Ct 12 Inch Eco Fr... | Rating: N/A | Reviews: N/A | Price: $47 | Buyers: N/A
+2024-11-21 15:22:46,029 - INFO - Extracted data: Name: Go-Green 100% Compostable Disposable Paper Plates,... | Rating: 4.7 | Reviews: 133 | Price: $15 | Buyers: N/A
+2024-11-21 15:22:57,217 - INFO - Extracted data: Name: brheez Palm Leaf Bowls 200 Pack - 4 inch Eco Frien... | Rating: 4.5 | Reviews: 739 | Price: $69 | Buyers: N/A
+2024-11-21 15:23:08,251 - INFO - Extracted data: Name: 10" SQUARE Palm Leaf plate / 100-ct case... | Rating: 4.4 | Reviews: 46 | Price: $74 | Buyers: N/A
+2024-11-21 15:23:29,576 - INFO - Extracted data: Name: brheez Palm Leaf Party Plates 50 Pack - 6 Inch Eco... | Rating: N/A | Reviews: N/A | Price: $33 | Buyers: N/A
+2024-11-21 15:23:40,809 - INFO - Extracted data: Name: Palm Naki Oval Palm Leaf Platter - Compostable Ova... | Rating: 5.0 | Reviews: 3 | Price: $39 | Buyers: N/A
+2024-11-21 15:23:47,265 - INFO - Extracted data: Name: ECO SOUL 100% Compostable 6 Inch Small Paper Plate... | Rating: 4.6 | Reviews: 1901 | Price: $18 | Buyers: 100+
+2024-11-21 15:23:54,304 - INFO - Extracted data: Name: 100% Compostable Knives - 140 Large Disposable Ute... | Rating: 4.7 | Reviews: 191 | Price: $26 | Buyers: 500+
+2024-11-21 15:24:01,251 - INFO - Extracted data: Name: Chic Leaf Disposable Palm Leaf Plates 7 Inch Bambo... | Rating: 4.5 | Reviews: 432 | Price: $33 | Buyers: 50+
+2024-11-21 15:24:08,634 - INFO - Extracted data: Name: 150PCS 100% Compostable Paper Plates(10 in), Heavy... | Rating: 4.7 | Reviews: 266 | Price: $30 | Buyers: 300+
+2024-11-21 15:24:09,643 - INFO - Saved 52 products to amazon_products_page_3.csv
+2024-11-21 15:24:09,647 - INFO - Saved combined data (156 products) to amazon_products_all.csv
+2024-11-21 15:24:09,647 - INFO - Completed scraping and saving page 3
+2024-11-21 15:24:09,647 - INFO - Scraping page 4 of 7
+2024-11-21 15:24:13,980 - INFO - Found 52 products on current page
+2024-11-21 15:24:24,290 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 10" Paper Plates, Case of... | Rating: 4.2 | Reviews: 16 | Price: $74 | Buyers: N/A
+2024-11-21 15:24:35,372 - INFO - Extracted data: Name: Talking Tables Mermaid Party Decorations and Table... | Rating: 4.8 | Reviews: 29 | Price: $24 | Buyers: N/A
+2024-11-21 15:24:46,644 - INFO - Extracted data: Name: Amscan Love and Leaves Square Metallic Plates, 7" ... | Rating: 4.7 | Reviews: 18 | Price: $7 | Buyers: N/A
+2024-11-21 15:25:08,221 - INFO - Extracted data: Name: ECO PRODUCTS Vanguard Compostable Disposable Paper... | Rating: N/A | Reviews: N/A | Price: $21 | Buyers: N/A
+2024-11-21 15:25:29,720 - INFO - Extracted data: Name: brheez Palm Leaf Plates 50 Pack - 9 Inch - Eco Fri... | Rating: N/A | Reviews: N/A | Price: $37 | Buyers: N/A
+2024-11-21 15:25:40,987 - INFO - Extracted data: Name: SIMOND STORE Paper Plates 11 Inch - [Pack of 50] -... | Rating: 5.0 | Reviews: 1 | Price: $32 | Buyers: N/A
+2024-11-21 15:25:51,623 - INFO - Extracted data: Name: Party Dinnerware Eco Set - 100 Disposable 10" Squa... | Rating: 4.6 | Reviews: 62 | Price: $60 | Buyers: N/A
+2024-11-21 15:26:03,121 - INFO - Extracted data: Name: Solo 8PSC-2050 8.25 in Ivory Bagasse Plate (Case o... | Rating: 2.4 | Reviews: 12 | Price: $68 | Buyers: N/A
+2024-11-21 15:26:14,277 - INFO - Extracted data: Name: Paper Plates, Compostable Heavy Duty Disposable 10... | Rating: 5.0 | Reviews: 4 | Price: $19 | Buyers: N/A
+2024-11-21 15:26:25,363 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 7 Inch Square (100) | Bambo... | Rating: 5.0 | Reviews: 5 | Price: $55 | Buyers: N/A
+2024-11-21 15:26:36,708 - INFO - Extracted data: Name: Sophistiplate Beautiful NEW Wavy Eco-Friendly Comp... | Rating: 4.1 | Reviews: 3 | Price: $16 | Buyers: N/A
+2024-11-21 15:26:47,288 - INFO - Extracted data: Name: Premium Paper Plates Disposable Large Heavy Duty 1... | Rating: 4.7 | Reviews: 124 | Price: $22 | Buyers: N/A
+2024-11-21 15:27:00,742 - INFO - Extracted data: Name: Biodegradable Bagasse Plates - 100pc Dinner Plates... | Rating: 4.3 | Reviews: 33 | Price: $10 | Buyers: N/A
+2024-11-21 15:27:12,090 - INFO - Extracted data: Name: Upper Midland Products 250Ct Compostable Disposabl... | Rating: 4.3 | Reviews: 31 | Price: $28 | Buyers: N/A
+2024-11-21 15:27:22,950 - INFO - Extracted data: Name: 100% Compostable Disposable Paper Plates [10" 20 P... | Rating: 4.6 | Reviews: 99 | Price: $24 | Buyers: N/A
+2024-11-21 15:27:34,141 - INFO - Extracted data: Name: [100 COUNT]Harvest Pack PFAS FREE 6.5-inch America... | Rating: 4.7 | Reviews: 178 | Price: $21 | Buyers: N/A
+2024-11-21 15:27:46,528 - INFO - Extracted data: Name: Progressive International Prep Solutions Microwave... | Rating: 4.1 | Reviews: 93 | Price: $11 | Buyers: N/A
+2024-11-21 15:27:58,323 - INFO - Extracted data: Name: Palm Leaf Plates - 6 Inch. Round Bamboo Like Dispo... | Rating: 4.6 | Reviews: 203 | Price: $20 | Buyers: N/A
+2024-11-21 15:28:09,936 - INFO - Extracted data: Name: Square Compostable Natural Palm Leaf Plates - Biod... | Rating: 4.3 | Reviews: 69 | Price: $15 | Buyers: N/A
+2024-11-21 15:28:20,935 - INFO - Extracted data: Name: Vibrant Birthday Cheer Multicolor Paper Dinner Pla... | Rating: 4.1 | Reviews: 16 | Price: $6 | Buyers: N/A
+2024-11-21 15:28:32,201 - INFO - Extracted data: Name: BOOBAM ECONATURAL PRODUCTS Square Disposable Plate... | Rating: 3.6 | Reviews: 30 | Price: $22 | Buyers: N/A
+2024-11-21 15:28:43,295 - INFO - Extracted data: Name: 100% Compostable 9 Inch Paper Plates [150-Pack] Di... | Rating: 4.9 | Reviews: 10 | Price: $22 | Buyers: N/A
+2024-11-21 15:28:54,567 - INFO - Extracted data: Name: Glad Compostable Paper Plates| 9-in Round Plates |... | Rating: 4.6 | Reviews: 216 | Price: $29 | Buyers: N/A
+2024-11-21 15:29:06,353 - INFO - Extracted data: Name: Restaurantware Midori 6.3 x 4.7 Inch Square Palm P... | Rating: 4.6 | Reviews: 3 | Price: $21 | Buyers: N/A
+2024-11-21 15:29:28,225 - INFO - Extracted data: Name: 300 8" ECONLY Disposable party pack| Square Palm L... | Rating: N/A | Reviews: N/A | Price: $67 | Buyers: N/A
+2024-11-21 15:29:50,019 - INFO - Extracted data: Name: brheez Palm Leaf Bowls 6 Inch - 50 Count - Eco Fri... | Rating: N/A | Reviews: N/A | Price: $33 | Buyers: N/A
+2024-11-21 15:30:01,141 - INFO - Extracted data: Name: 100% Compostable 10/3 CP Round Plates [125 Pack] D... | Rating: 5.0 | Reviews: 3 | Price: $18 | Buyers: N/A
+2024-11-21 15:30:12,061 - INFO - Extracted data: Name: Efavormart 25 Pack | 7" Tropical Palm Leaf Mix Des... | Rating: 4.5 | Reviews: 30 | Price: $5 | Buyers: N/A
+2024-11-21 15:30:23,314 - INFO - Extracted data: Name: 9 inch Round Disposable White Bagasse Dinner Plate... | Rating: 4.5 | Reviews: 104 | Price: $29 | Buyers: N/A
+2024-11-21 15:30:33,871 - INFO - Extracted data: Name: Rectangle Palm Leaf Plates Set | 50 Pack | Size - ... | Rating: 4.3 | Reviews: 122 | Price: $29 | Buyers: N/A
+2024-11-21 15:30:44,845 - INFO - Extracted data: Name: Cakewalk (Party) 6481 Monstera Appetizer Disposabl... | Rating: 5.0 | Reviews: 4 | Price: $7 | Buyers: N/A
+2024-11-21 15:30:56,649 - INFO - Extracted data: Name: Eco-Friendly Compostable Party Plates - Set of 50 ... | Rating: 4.2 | Reviews: 102 | Price: $24 | Buyers: N/A
+2024-11-21 15:31:07,427 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 10 Inch Round 3 Compartment... | Rating: 5.0 | Reviews: 3 | Price: $34 | Buyers: N/A
+2024-11-21 15:31:19,271 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 6 Inch Round (50) | Bamboo ... | Rating: 4.6 | Reviews: 4 | Price: $26 | Buyers: N/A
+2024-11-21 15:31:30,628 - INFO - Extracted data: Name: Highmark Disposable 6 3/4in. Plates, Pack Of 125, ... | Rating: 5.0 | Reviews: 1 | Price: $14 | Buyers: N/A
+2024-11-21 15:31:42,487 - INFO - Extracted data: Name: PacknWood 210BCHIC180 - Square Disposable Dinner P... | Rating: 3.4 | Reviews: 10 | Price: $52 | Buyers: N/A
+2024-11-21 15:32:03,712 - INFO - Extracted data: Name: POPMISOLER 125PCS Premium 9-Inch Paper Plates - Ec... | Rating: N/A | Reviews: N/A | Price: $55 | Buyers: N/A
+2024-11-21 15:32:15,291 - INFO - Extracted data: Name: Biodegradable Paper Plates - 9 Inch Heavy Duty, Ec... | Rating: 4.6 | Reviews: 6 | Price: $21 | Buyers: N/A
+2024-11-21 15:32:36,511 - INFO - Extracted data: Name: Sophistiplate Beautiful NEW Wavy Eco-Friendly Comp... | Rating: N/A | Reviews: N/A | Price: $13 | Buyers: N/A
+2024-11-21 15:32:47,541 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating: 3.0 | Reviews: 2 | Price: $55 | Buyers: N/A
+2024-11-21 15:33:08,331 - INFO - Extracted data: Name: Hot Wheels Wild Racer Round Plates (9", 6 Packs of... | Rating: N/A | Reviews: N/A | Price: $36 | Buyers: N/A
+2024-11-21 15:33:19,318 - INFO - Extracted data: Name: Disposable Palm Leaf 5"x7" Oval Plates (25 pcs) | ... | Rating: 4.5 | Reviews: 6 | Price: $16 | Buyers: N/A
+2024-11-21 15:33:30,245 - INFO - Extracted data: Name: Efavormart 25 Pack | 7" Green Leaf Decagon Dessert... | Rating: 4.5 | Reviews: 7 | Price: $5 | Buyers: N/A
+2024-11-21 15:33:41,748 - INFO - Extracted data: Name: 10 Pcs Star Gold Paper Plates, 7 Inch Pentagram Di... | Rating: 3.0 | Reviews: 5 | Price: $9 | Buyers: N/A
+2024-11-21 15:33:52,687 - INFO - Extracted data: Name: Sophistiplate Beautiful NEW Wavy Eco-Friendly Comp... | Rating: 4.0 | Reviews: 1 | Price: $13 | Buyers: N/A
+2024-11-21 15:34:03,219 - INFO - Extracted data: Name: Key West Metallic Square Paper Plates - 7" (Pack o... | Rating: 5.0 | Reviews: 1 | Price: $25 | Buyers: N/A
+2024-11-21 15:34:14,131 - INFO - Extracted data: Name: Sophistiplate Beautiful NEW Wavy Eco-Friendly Comp... | Rating: 5.0 | Reviews: 1 | Price: $16 | Buyers: N/A
+2024-11-21 15:34:25,260 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 3 Compartment 10" Paper P... | Rating: 3.7 | Reviews: 3 | Price: $114 | Buyers: N/A
+2024-11-21 15:34:31,543 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Plates Disposable Bamboo Plate... | Rating: 4.6 | Reviews: 1296 | Price: $47 | Buyers: 100+
+2024-11-21 15:34:38,056 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Plates Disposable Bamboo Plate... | Rating: 4.5 | Reviews: 432 | Price: $41 | Buyers: 200+
+2024-11-21 15:34:44,717 - INFO - Extracted data: Name: 100% Compostable Disposable Paper Plates Bulk [6" ... | Rating: 4.7 | Reviews: 10635 | Price: $11 | Buyers: 200+
+2024-11-21 15:34:51,147 - INFO - Extracted data: Name: 100% Compostable Paper Plates [9 in.] – 150 Dispos... | Rating: 4.6 | Reviews: 385 | Price: $36 | Buyers: 1000
+2024-11-21 15:34:52,156 - INFO - Saved 52 products to amazon_products_page_4.csv
+2024-11-21 15:34:52,160 - INFO - Saved combined data (208 products) to amazon_products_all.csv
+2024-11-21 15:34:52,160 - INFO - Completed scraping and saving page 4
+2024-11-21 15:34:52,160 - INFO - Scraping page 5 of 7
+2024-11-21 15:34:55,997 - INFO - Found 52 products on current page
+2024-11-21 15:35:06,538 - INFO - Extracted data: Name: Restaurantware Indo 9.3 x 9.3 Inch Square Palm Pla... | Rating: 4.4 | Reviews: 15 | Price: $80 | Buyers: N/A
+2024-11-21 15:35:17,888 - INFO - Extracted data: Name: Animal Dessert Paper Plates Birthday Party Decorat... | Rating: 5.0 | Reviews: 1 | Price: $17 | Buyers: N/A
+2024-11-21 15:35:28,859 - INFO - Extracted data: Name: 16 OZ Paper Bowls, Premium Disposable Bowls - Stur... | Rating: 4.5 | Reviews: 2 | Price: $22 | Buyers: N/A
+2024-11-21 15:35:50,371 - INFO - Extracted data: Name: Dart OFMP6J7234 Bare Paper Eco-Forward Dinnerware,... | Rating: N/A | Reviews: N/A | Price: $76 | Buyers: N/A
+2024-11-21 15:36:01,826 - INFO - Extracted data: Name: Pale Pink Value Round Paper Plates - 9" (Pack Of 1... | Rating: 1.0 | Reviews: 1 | Price: $6 | Buyers: N/A
+2024-11-21 15:36:13,390 - INFO - Extracted data: Name: PACKNWOOD 210BCHIC90180 Heavy-Duty Biodegradable S... | Rating: 3.2 | Reviews: 3 | Price: $24 | Buyers: N/A
+2024-11-21 15:36:24,120 - INFO - Extracted data: Name: CaterEco Rectangle Palm Leaf Plates Set (Pack of 1... | Rating: 4.5 | Reviews: 2 | Price: $84 | Buyers: N/A
+2024-11-21 15:36:45,503 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 5x8 Inch Rectangle (Pack 10... | Rating: N/A | Reviews: N/A | Price: $47 | Buyers: N/A
+2024-11-21 15:36:56,689 - INFO - Extracted data: Name: Disposable Palm Leaf 6"x5" Rectangle Deep Plates (... | Rating: 4.5 | Reviews: 59 | Price: $18 | Buyers: N/A
+2024-11-21 15:37:07,462 - INFO - Extracted data: Name: Dtocs Palm Leaf Plates 7 Inch Round (50) | Bamboo ... | Rating: 4.4 | Reviews: 2 | Price: $49 | Buyers: N/A
+2024-11-21 15:37:19,312 - INFO - Extracted data: Name: 200 Pack of 7x5" Oval Disposable Palm Leaf Plates ... | Rating: 4.4 | Reviews: 259 | Price: $117 | Buyers: N/A
+2024-11-21 15:37:29,776 - INFO - Extracted data: Name: Deluxe Round Pure Palm Leaf Plates Set | (Pack of ... | Rating: 4.1 | Reviews: 21 | Price: $33 | Buyers: N/A
+2024-11-21 15:37:51,353 - INFO - Extracted data: Name: 9 Inch Disposable Bamboo Paper Plates - 100 Pack H... | Rating: N/A | Reviews: N/A | Price: $18 | Buyers: N/A
+2024-11-21 15:37:57,594 - INFO - Extracted data: Name: Repurpose, 9" Eco-Dinner Plates, 20 Count... | Rating: 4.4 | Reviews: 396 | Price: $4 | Buyers: 100+
+2024-11-21 15:38:08,252 - INFO - Extracted data: Name: Efavormart 50 Pcs Marble/Gold Dinner & Dessert/App... | Rating: 3.9 | Reviews: 6 | Price: $9 | Buyers: N/A
+2024-11-21 15:38:19,350 - INFO - Extracted data: Name: PacknWood 210BCHICDROP Paper plates with compartme... | Rating: 5.0 | Reviews: 2 | Price: $68 | Buyers: N/A
+2024-11-21 15:38:40,529 - INFO - Extracted data: Name: Ecoplates 6-Inch Compostable Paper Plates -Bulk [C... | Rating: N/A | Reviews: N/A | Price: $52 | Buyers: N/A
+2024-11-21 15:38:50,876 - INFO - Extracted data: Name: SOLO Cup Company OFMP9J7234 Bare Paper Eco-Forward... | Rating: 1.0 | Reviews: 1 | Price: $9 | Buyers: N/A
+2024-11-21 15:39:01,875 - INFO - Extracted data: Name: JAM PAPER Round Paper Party Plates - Small - 7 Inc... | Rating: 4.4 | Reviews: 48 | Price: $11 | Buyers: N/A
+2024-11-21 15:39:12,546 - INFO - Extracted data: Name: The Palms Bamboo Palm Leaf Plates, 25 Count, 10 In... | Rating: 4.8 | Reviews: 17 | Price: $29 | Buyers: N/A
+2024-11-21 15:39:23,415 - INFO - Extracted data: Name: Restaurantware Pulp Tek 7.9 Inch Eco-Friendly Plat... | Rating: 4.2 | Reviews: 33 | Price: $55 | Buyers: N/A
+2024-11-21 15:39:34,340 - INFO - Extracted data: Name: 100% Compostable Square Paper Plates, Disposable P... | Rating: 4.8 | Reviews: 23 | Price: $74 | Buyers: N/A
+2024-11-21 15:39:45,233 - INFO - Extracted data: Name: Dtocs Palm Leaf Plate Set (100 Pcs) Oval Plates 7x... | Rating: 5.0 | Reviews: 4 | Price: $55 | Buyers: N/A
+2024-11-21 15:39:55,882 - INFO - Extracted data: Name: 10-Inch Compostable 3-Compartment Paper Plates | H... | Rating: 5.0 | Reviews: 1 | Price: $18 | Buyers: N/A
+2024-11-21 15:40:06,794 - INFO - Extracted data: Name: Emerald 100% Tree Free Sugarcane Heavy Duty Plate,... | Rating: 3.5 | Reviews: 17 | Price: $37 | Buyers: N/A
+2024-11-21 15:40:17,401 - INFO - Extracted data: Name: By The Sea Dessert Paper Plates Disposable ECO Par... | Rating: 2.0 | Reviews: 1 | Price: $8 | Buyers: N/A
+2024-11-21 15:40:38,819 - INFO - Extracted data: Name: Dart Bare Paper Eco-Forward Dinnerware, 8 1/2" Pla... | Rating: N/A | Reviews: N/A | Price: $51 | Buyers: N/A
+2024-11-21 15:40:59,812 - INFO - Extracted data: Name: ECO PRODUCTS Compostable 10" Oval Paper Plates, Ca... | Rating: N/A | Reviews: N/A | Price: $24 | Buyers: N/A
+2024-11-21 15:41:10,731 - INFO - Extracted data: Name: Dart Bare Eco-Forward Clay-Coated Paper Dinnerware... | Rating: 5.0 | Reviews: 1 | Price: $105 | Buyers: N/A
+2024-11-21 15:41:31,778 - INFO - Extracted data: Name: Yamato Bussan Disposable Tableware, White, 7.1 inc... | Rating: N/A | Reviews: N/A | Price: $14 | Buyers: N/A
+2024-11-21 15:41:52,801 - INFO - Extracted data: Name: SOLO Cup Company OFMP6J7234 Bare Paper Eco-Forward... | Rating: N/A | Reviews: N/A | Price: $102 | Buyers: N/A
+2024-11-21 15:42:13,918 - INFO - Extracted data: Name: Dart Bare Eco-Forward Clay-Coated Paper Dinnerware... | Rating: N/A | Reviews: N/A | Price: $81 | Buyers: N/A
+2024-11-21 15:42:34,997 - INFO - Extracted data: Name: Solo Cup Bare Eco-Forward Clay-Coated Paper Plate,... | Rating: N/A | Reviews: N/A | Price: $82 | Buyers: N/A
+2024-11-21 15:42:55,864 - INFO - Extracted data: Name: SCCHP9S - Solo Bare Eco-Forward Clay-Coated Paper ... | Rating: N/A | Reviews: N/A | Price: $87 | Buyers: N/A
+2024-11-21 15:43:16,670 - INFO - Extracted data: Name: Dart OFMP9R-J7234 Bare Paper Eco-forward Dinnerwar... | Rating: N/A | Reviews: N/A | Price: $65 | Buyers: N/A
+2024-11-21 15:43:27,193 - INFO - Extracted data: Name: ECO Cardboard Paper Plates Diameter 18 cm Pack of ... | Rating: 5.0 | Reviews: 3 | Price: $14 | Buyers: N/A
+2024-11-21 15:43:37,660 - INFO - Extracted data: Name: Ginger Ray Natural Marble Eco Paper Party Plates -... | Rating: 5.0 | Reviews: 1 | Price: $14 | Buyers: N/A
+2024-11-21 15:43:58,815 - INFO - Extracted data: Name: SOLIA VO57022 Au Gratin Dishes, Disposable Tablewa... | Rating: N/A | Reviews: N/A | Price: $21 | Buyers: N/A
+2024-11-21 15:44:19,925 - INFO - Extracted data: Name: ECO PRODUCTS Compostable Disposable Paper Plates, ... | Rating: N/A | Reviews: N/A | Price: $25 | Buyers: N/A
+2024-11-21 15:44:41,771 - INFO - Extracted data: Name: 300 Pieces 100% Compostable Paper Plates (White 7i... | Rating: N/A | Reviews: N/A | Price: $ | Buyers: N/A
+2024-11-21 15:45:03,128 - INFO - Extracted data: Name: 300 Pieces 100% Compostable Paper Plates (White 15... | Rating: N/A | Reviews: N/A | Price: $ | Buyers: N/A
+2024-11-21 15:45:24,529 - INFO - Extracted data: Name: 300 Pieces 100% Compostable Paper Plates (White 15... | Rating: N/A | Reviews: N/A | Price: $ | Buyers: N/A
+2024-11-21 15:45:45,441 - INFO - Extracted data: Name: Ginger Ray Eco Paper Party Colourful Rainbow Paper... | Rating: N/A | Reviews: N/A | Price: $11 | Buyers: N/A
+2024-11-21 15:46:06,456 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:46:27,096 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:46:48,041 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $32 | Buyers: N/A
+2024-11-21 15:47:09,014 - INFO - Extracted data: Name: Shinwa EC-501 Eco Cook Round Plate, 7.1 inches (18... | Rating: N/A | Reviews: N/A | Price: $0 | Buyers: N/A
+2024-11-21 15:47:29,769 - INFO - Extracted data: Name: Bare Eco-Forward Clay-Coated Paper Dinnerware, Bow... | Rating: N/A | Reviews: N/A | Price: $43 | Buyers: N/A
+2024-11-21 15:47:37,030 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Plates Disposable Bamboo Plate... | Rating: 4.6 | Reviews: 1296 | Price: $37 | Buyers: 200+
+2024-11-21 15:47:48,928 - INFO - Extracted data: Name: Chic Leaf 100% Compostable Disposable Palm Leaf Pl... | Rating: 4.3 | Reviews: 72 | Price: $28 | Buyers: N/A
+2024-11-21 15:47:55,605 - INFO - Extracted data: Name: ECO SOUL 100% Compostable 10 Inch Paper Plates [10... | Rating: 4.6 | Reviews: 1901 | Price: $23 | Buyers: 700+
+2024-11-21 15:48:02,162 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Disposable Plates - Square Bam... | Rating: 4.5 | Reviews: 2112 | Price: $50 | Buyers: 700+
+2024-11-21 15:48:03,170 - INFO - Saved 52 products to amazon_products_page_5.csv
+2024-11-21 15:48:03,173 - INFO - Saved combined data (260 products) to amazon_products_all.csv
+2024-11-21 15:48:03,173 - INFO - Completed scraping and saving page 5
+2024-11-21 15:48:03,173 - INFO - Scraping page 6 of 7
+2024-11-21 15:48:06,644 - INFO - Found 52 products on current page
+2024-11-21 15:48:26,188 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $34 | Buyers: N/A
+2024-11-21 15:48:46,981 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $22 | Buyers: N/A
+2024-11-21 15:49:07,726 - INFO - Extracted data: Name: Shinwa EC-501 Eco Cook Round Plate, 7.1 inches (18... | Rating: N/A | Reviews: N/A | Price: $0 | Buyers: N/A
+2024-11-21 15:49:28,632 - INFO - Extracted data: Name: Bare Eco-Forward Clay-Coated Paper Dinnerware, Bow... | Rating: N/A | Reviews: N/A | Price: $43 | Buyers: N/A
+2024-11-21 15:49:39,048 - INFO - Extracted data: Name: amscan Round Birthday Eco Paper Plates with Polka ... | Rating: 4.3 | Reviews: 3 | Price: $23 | Buyers: N/A
+2024-11-21 15:49:59,867 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:50:20,455 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:50:41,294 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:51:01,924 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $32 | Buyers: N/A
+2024-11-21 15:51:12,715 - INFO - Extracted data: Name: Paw Paper Plates (23 cm) I Pack of 10 I Disposable... | Rating: 3.3 | Reviews: 5 | Price: $26 | Buyers: N/A
+2024-11-21 15:51:33,439 - INFO - Extracted data: Name: PacknWood Eco-Design White Sugarcane Plate | Heavy... | Rating: N/A | Reviews: N/A | Price: $154 | Buyers: N/A
+2024-11-21 15:51:54,193 - INFO - Extracted data: Name: PacknWood Eco-Design White Sugarcane Plate | Heavy... | Rating: N/A | Reviews: N/A | Price: $166 | Buyers: N/A
+2024-11-21 15:52:15,770 - INFO - Extracted data: Name: 100% Compostable Paper Plates, Heavy Duty Disposab... | Rating: N/A | Reviews: N/A | Price: $18 | Buyers: N/A
+2024-11-21 15:52:36,581 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:52:57,499 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:53:18,016 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:53:38,872 - INFO - Extracted data: Name: Disposable Dishes Plates Natural Biodegradable Pla... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:54:00,119 - INFO - Extracted data: Name: SIMOND STORE - Paper Plates 12 Inch - [Pack of 125... | Rating: N/A | Reviews: N/A | Price: $46 | Buyers: N/A
+2024-11-21 15:54:21,467 - INFO - Extracted data: Name: SIMOND STORE - Small Paper Plates 6 Inch - [Pack o... | Rating: N/A | Reviews: N/A | Price: $41 | Buyers: N/A
+2024-11-21 15:54:43,059 - INFO - Extracted data: Name: Eco-Products EPP013 Renewable & Compostable Sugarc... | Rating: N/A | Reviews: N/A | Price: $24 | Buyers: N/A
+2024-11-21 15:55:04,153 - INFO - Extracted data: Name: Eco Stix Palm Plates. Pack of 25 CT. 10 Inches Squ... | Rating: N/A | Reviews: N/A | Price: $16 | Buyers: N/A
+2024-11-21 15:55:24,832 - INFO - Extracted data: Name: Dart OFHW12J7234 Bare Paper Eco-Forward Dinnerware... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:55:45,798 - INFO - Extracted data: Name: AKOAK 4 Styles 20 Count Pink Series Disposable Tab... | Rating: N/A | Reviews: N/A | Price: $9 | Buyers: N/A
+2024-11-21 15:56:06,859 - INFO - Extracted data: Name: Zebra Square Dinner Plate - ECO... | Rating: N/A | Reviews: N/A | Price: $136 | Buyers: N/A
+2024-11-21 15:56:27,790 - INFO - Extracted data: Name: PacknWood 210ECOD2614 - Heavy-Duty Biodegradable S... | Rating: N/A | Reviews: N/A | Price: $125 | Buyers: N/A
+2024-11-21 15:56:38,652 - INFO - Extracted data: Name: Square Party 9" | Multicolor | Bella Vite Collecti... | Rating: 3.0 | Reviews: 1 | Price: $10 | Buyers: N/A
+2024-11-21 15:56:59,946 - INFO - Extracted data: Name: 100 Pack Paper Plates - Uncoated White Plate - Use... | Rating: N/A | Reviews: N/A | Price: $11 | Buyers: N/A
+2024-11-21 15:57:10,543 - INFO - Extracted data: Name: 10" Evo Eco Square Palm Leaf Plates Dinner Plates ... | Rating: 5.0 | Reviews: 1 | Price: $58 | Buyers: N/A
+2024-11-21 15:57:31,367 - INFO - Extracted data: Name: Yamato Bussan Paper Plate, Eco Paper, Mini Donburi... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 15:57:52,765 - INFO - Extracted data: Name: Eco-Products EP-P016PK Renewable and Compostable S... | Rating: N/A | Reviews: N/A | Price: $66 | Buyers: N/A
+2024-11-21 15:58:03,361 - INFO - Extracted data: Name: 10" Evo-Eco 10 Inch Square Palm Leaf Plates Dinner... | Rating: 5.0 | Reviews: 1 | Price: $39 | Buyers: N/A
+2024-11-21 15:58:24,222 - INFO - Extracted data: Name: ECO PRODUCTS Disposable Rectangular Sugarcane Plat... | Rating: N/A | Reviews: N/A | Price: $130 | Buyers: N/A
+2024-11-21 15:58:45,041 - INFO - Extracted data: Name: Asean ECO SOURCE 10" DI COMPOSTABLE TABLEWARE ROUN... | Rating: N/A | Reviews: N/A | Price: $81 | Buyers: N/A
+2024-11-21 15:58:55,463 - INFO - Extracted data: Name: Evo Eco 10" Palm Leaf Plates Dinner Plates Lunch &... | Rating: 5.0 | Reviews: 1 | Price: $39 | Buyers: N/A
+2024-11-21 15:59:06,567 - INFO - Extracted data: Name: 10" [200] Disposable Palm Leaf Plates Round |Compo... | Rating: 5.0 | Reviews: 1 | Price: $119 | Buyers: N/A
+2024-11-21 15:59:27,214 - INFO - Extracted data: Name: Atyhao Dinner Plate, Carrot Shape Cartoon Pictures... | Rating: N/A | Reviews: N/A | Price: $8 | Buyers: N/A
+2024-11-21 15:59:48,020 - INFO - Extracted data: Name: Greenovation Palm Leaf Plates – 25pcs | Eco-Friend... | Rating: N/A | Reviews: N/A | Price: $22 | Buyers: N/A
+2024-11-21 15:59:58,585 - INFO - Extracted data: Name: 120 pc 7" Everyday Sturdy Sugarcane Bagasse Plate ... | Rating: 5.0 | Reviews: 1 | Price: $23 | Buyers: N/A
+2024-11-21 16:00:19,450 - INFO - Extracted data: Name: Bagasse 10" Round Plate, Compostable White, 500/ca... | Rating: N/A | Reviews: N/A | Price: $23 | Buyers: N/A
+2024-11-21 16:00:40,729 - INFO - Extracted data: Name: EconoHome Compostable Paper Plates 9 inch [125-Pac... | Rating: N/A | Reviews: N/A | Price: $ | Buyers: N/A
+2024-11-21 16:00:47,255 - INFO - Extracted data: Name: Hygloss Products Paper Plates - Uncoated White Pla... | Rating: 4.1 | Reviews: 3282 | Price: $4 | Buyers: 7000
+2024-11-21 16:00:54,862 - INFO - Extracted data: Name: Glad 10 Inch Round Paper Plates 50 Count - Heavy D... | Rating: 4.6 | Reviews: 24715 | Price: $8 | Buyers: 4000
+2024-11-21 16:01:02,832 - INFO - Extracted data: Name: 100% Compostable 10 Inch Heavy-Duty [125-Pack] Eco... | Rating: 4.7 | Reviews: 2320 | Price: $26 | Buyers: 2000
+2024-11-21 16:01:09,251 - INFO - Extracted data: Name: Hefty ECOSAVE Compostable Thanksgiving 5-Compartme... | Rating: 4.6 | Reviews: 459 | Price: $7 | Buyers: 600+
+2024-11-21 16:01:15,741 - INFO - Extracted data: Name: Glad Disposable Plates, Pink Hydrangea - Strong, S... | Rating: 4.7 | Reviews: 8710 | Price: $9 | Buyers: 1000
+2024-11-21 16:01:22,098 - INFO - Extracted data: Name: GUSTO [9 Inch - 300 Count] Uncoated White Paper Pl... | Rating: 4.4 | Reviews: 5500 | Price: $22 | Buyers: 1000
+2024-11-21 16:01:28,798 - INFO - Extracted data: Name: ECOLipak 100% Compostable 5 Compartment Plates, 12... | Rating: 4.5 | Reviews: 1776 | Price: $28 | Buyers: 1000
+2024-11-21 16:01:36,088 - INFO - Extracted data: Name: Glad Round Disposable Paper Plates for All Occasio... | Rating: 4.7 | Reviews: 3717 | Price: $8 | Buyers: 1000
+2024-11-21 16:01:42,190 - INFO - Extracted data: Name: Paper Bowls, 100% Compostable Disposable Soup Bowl... | Rating: 4.7 | Reviews: 9285 | Price: $18 | Buyers: 7000
+2024-11-21 16:01:48,650 - INFO - Extracted data: Name: 100% Compostable Paper Plates [9 in.] COMPARTMENTS... | Rating: 4.4 | Reviews: 123 | Price: $38 | Buyers: 50+
+2024-11-21 16:01:55,313 - INFO - Extracted data: Name: Chic Leaf Palm Leaf Plates Disposable Bamboo Plate... | Rating: 4.6 | Reviews: 1296 | Price: $34 | Buyers: 50+
+2024-11-21 16:02:02,368 - INFO - Extracted data: Name: ECO SOUL 100% Clear Compostable Party Cups | (50 C... | Rating: 4.3 | Reviews: 80 | Price: $13 | Buyers: 300+
+2024-11-21 16:02:03,379 - INFO - Saved 52 products to amazon_products_page_6.csv
+2024-11-21 16:02:03,422 - INFO - Saved combined data (312 products) to amazon_products_all.csv
+2024-11-21 16:02:03,422 - INFO - Completed scraping and saving page 6
+2024-11-21 16:02:03,422 - INFO - Scraping page 7 of 7
+2024-11-21 16:02:07,142 - INFO - Found 22 products on current page
+2024-11-21 16:02:12,976 - INFO - Extracted data: Name: Chinet Chinet 10 3/8" Paper Dinner Plates (165Coun... | Rating: 4.5 | Reviews: 436 | Price: $28 | Buyers: 1000
+2024-11-21 16:02:19,960 - INFO - Extracted data: Name: Amazon Basics Ultra Paper Plates, 10.06 Inch, Disp... | Rating: 4.6 | Reviews: 7624 | Price: $80 | Buyers: 1000
+2024-11-21 16:02:26,631 - INFO - Extracted data: Name: Glad Square Disposable Paper Plates for All Occasi... | Rating: 4.7 | Reviews: 8497 | Price: $10 | Buyers: 800+
+2024-11-21 16:02:33,377 - INFO - Extracted data: Name: Chinet Classic White, Round All Occasion Fiber Pla... | Rating: 4.4 | Reviews: 621 | Price: $18 | Buyers: 1000
+2024-11-21 16:02:39,520 - INFO - Extracted data: Name: Nicole Home Collection Everyday Dinnerware Paper P... | Rating: 4.2 | Reviews: 974 | Price: $3 | Buyers: 1000
+2024-11-21 16:02:45,516 - INFO - Extracted data: Name: brheez Disposable Oval Paper Dinner Plates (25pk) ... | Rating: 4.5 | Reviews: 716 | Price: $13 | Buyers: 700+
+2024-11-21 16:02:53,369 - INFO - Extracted data: Name: Genuine Joe 10321 Paper Plates, 6 7/8" (pack of 12... | Rating: 4.5 | Reviews: 9506 | Price: $20 | Buyers: 800+
+2024-11-21 16:02:59,960 - INFO - Extracted data: Name: Dixie Heavy Duty Paper Plates (6.875 inch 50 Count... | Rating: 4.6 | Reviews: 830 | Price: $9 | Buyers: 800+
+2024-11-21 16:03:06,667 - INFO - Extracted data: Name: Stock Your Home 9-Inch Paper Plates Uncoated, Ever... | Rating: 4.3 | Reviews: 8156 | Price: $19 | Buyers: 700+
+2024-11-21 16:03:13,046 - INFO - Extracted data: Name: Disposable Paper Plate: Heavy Duty, Elegant, Eco-F... | Rating: 4.6 | Reviews: 130 | Price: $26 | Buyers: 400+
+2024-11-21 16:03:24,408 - INFO - Extracted data: Name: Dixie Large Paper Plates, 10 Inch, 220 Count, 2X S... | Rating: 4.8 | Reviews: 71432 | Price: $17 | Buyers: N/A
+2024-11-21 16:03:35,730 - INFO - Extracted data: Name: Dixie Medium Paper Plates, 8.5 Inch, 90 Count, 2X ... | Rating: 4.8 | Reviews: 6222 | Price: $5 | Buyers: N/A
+2024-11-21 16:03:42,368 - INFO - Extracted data: Name: Solo AnyDay Paper Plates, 8.5 Inch Paper Plates, C... | Rating: 4.7 | Reviews: 2857 | Price: $34 | Buyers: 700+
+2024-11-21 16:03:49,039 - INFO - Extracted data: Name: 100% Compostable Square Paper Plates [50-Pack] - {... | Rating: 4.7 | Reviews: 5983 | Price: $11 | Buyers: 400+
+2024-11-21 16:03:56,880 - INFO - Extracted data: Name: Dixie 6 7/8" Medium-Weight Paper Plates by GP PRO ... | Rating: 4.5 | Reviews: 2697 | Price: $40 | Buyers: 500+
+2024-11-21 16:04:03,229 - INFO - Extracted data: Name: Susty Party 10-Inch Compostable Round (50-Count), ... | Rating: 4.6 | Reviews: 794 | Price: $14 | Buyers: 400+
+2024-11-21 16:04:09,884 - INFO - Extracted data: Name: Raj Eco Compostable Palm Leaf Plates Like Bamboo P... | Rating: 4.6 | Reviews: 95 | Price: $22 | Buyers: 400+
+2024-11-21 16:04:16,297 - INFO - Extracted data: Name: Susty Party 10-Inch Compostable Square Plates (50-... | Rating: 4.6 | Reviews: 943 | Price: $17 | Buyers: 400+
+2024-11-21 16:04:24,002 - INFO - Extracted data: Name: 100% Compostable Paper Plates, Heavy Duty Disposab... | Rating: 4.7 | Reviews: 22163 | Price: $21 | Buyers: 10000
+2024-11-21 16:04:30,435 - INFO - Extracted data: Name: Nicole Home Collection 100% Compostable Heavy Duty... | Rating: 4.7 | Reviews: 805 | Price: $20 | Buyers: 50+
+2024-11-21 16:04:40,897 - INFO - Extracted data: Name: 100% Compostable 9 Inch Heavy-Duty [125-Pack] Eco-... | Rating: 4.7 | Reviews: 4953 | Price: $21 | Buyers: 5000
+2024-11-21 16:04:47,545 - INFO - Extracted data: Name: ECO SOUL 100% Compostable, Disposable Party Cups |... | Rating: 4.7 | Reviews: 167 | Price: $14 | Buyers: 200+
+2024-11-21 16:04:48,557 - INFO - Saved 22 products to amazon_products_page_7.csv
+2024-11-21 16:04:48,562 - INFO - Saved combined data (334 products) to amazon_products_all.csv
+2024-11-21 16:04:48,562 - INFO - Completed scraping and saving page 7
